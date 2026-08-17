@@ -1,0 +1,1441 @@
+2|Yep, it's dirt.
+4|DO NOT TOUCH!
+10|I don't feel like I should have to explain what a rock is to you.
+12|These magical doors connect all the worlds in Growtopia. Place one and then use your Wrench on it to set the destination.
+14|Technically, this is also Dirt, it's just dirt that's farther away.
+16|I love the smell of freshly punched Grass in the morning!
+18|Nothing can stand against the power of the FIST.
+20|Write stuff on it to tell your friends! Use your Wrench on it to change the message.
+22|Bellis Perennis, the common European daisy.
+24|This sign includes a bit of added information - an arrow!  The arrow points whichever direction you are facing when you place the sign.
+26|This is not the greatest sign, but it'll do in a pinch.
+28|Use this sign to warn your friends of terrible space monkeys.
+30|This works like a regular door, but it looks much more medieval.
+32|The amazing tool that can modify Doors, Signs, Time-Space Ruptures, and more. You can't lose it!
+34|The future's so bright, you need these.
+36|Your basic green shirt.
+38|Look like a penguin!
+40|Standard loafers. They're actually the wrong size, but what're you gonna do?
+42|For when you have serious work to do.
+44|A big red pompadour.
+46|Support your favorite team! As long as your favorite team is team B!
+48|Denim is the strongest fiber known to man.
+50|Ooh la la.
+52|Tons of planks. A plank ton.
+54|A piece of glass with a frame.
+56|Just your basic piece of glass.
+58|You can see out of it, except for the wooden parts.
+60|Lock out the ruffians with this medieval gateway.
+62|If you had a piece of cardboard, you could breakdance in front of it. Cardboard and bendable limbs.
+64|When this song is over, we can listen to the latest serial adventures!
+66|Contains no rabbits.
+68|Brown hair comes in many styles, and this is one of them.
+70|You blonde rebel.
+72|Extra poofy!
+74|Keeps your head warm!
+76|Matches any clothing!
+78|Shiny!
+80|There's no place like Growtopia!
+82|Exactly long enough to be appropriate for all occasions.
+84|An ordinary blouse in kelly green.
+86|Extremely scandalous!
+88|Scandalous!
+90|Gorgeous blonde locks tumbling over your sensual shoulders and around your square head.
+92|Contains nuclear launch codes, but you don't know the combination to open it.
+94|Razor-sharp, and yet you kindly choose not to cut anything with it.
+96|You only get one, but it still lets you punch people harder!
+98|Smash through bricks slightly faster!
+100|A solid chunk of Bolivian Manzanita, polished to a mirror sheen.
+102|The great thing about these is that you can jump up through them!
+104|Rock n' roll, brother.
+106|Punch to flush!
+108|Monet's lost masterpiece.
+110|An oil painting commissioned to commemorate the 15th anniversary of Dink Smallwood!
+114|Disco will never die.
+116|Your basic building material.
+118|These bricks are slightly farther away than the other Bricks.
+120|What could possibly be inside this block!?!? Gems, that's what.
+122|The perfect hood for when you're riding something red.
+124|Protects you from the rain. Less effective against disguised wolves.
+126|Use this on somebody who's been evil!
+128|Use this on somebody who's been good!
+130|YOUR HEAD IS ON FIRE!
+132|Any medical benefits of the Brainwave Capacitor have not been verified by the FDA.
+134|Wait, is that TV still on?
+136|You're the Queen of the Fairies!
+138|With this visor on, you can zap things instead of punching. It does slightly less damage, but has longer range.
+140|Looks tough.
+142|Just the mustache you need to review movies with!
+144|These allow your character to see through the other characters' clothes. It does NOT allow you, the player, to do so.
+146|More expensive than most glasses.
+148|Make sure you get the right prescription.
+150|Fairly dressy.
+152|For that Tinkerbell style.
+154|Sparkly shoes!
+156|With a pair of wings, you can double-jump!
+158|Unfortunately, all the magic in this wand is used up.
+160|It doesn't have enough thrust to actually fly, but it does let you jump really high!
+162|The deadliest kind of spikes available. Do not touch!
+164|Blocks are available in a stunning array of colors!
+166|Blocks are available in a stunning array of colors!
+168|Blocks are available in a stunning array of colors!
+170|Blocks are available in a stunning array of colors!
+172|Blocks are available in a stunning array of colors!
+174|Blocks are available in a stunning array of colors!
+176|Blocks are available in a stunning array of colors!
+178|Blocks are available in a stunning array of colors!
+180|Blocks are available in a stunning array of colors!
+182|Blocks are available in a stunning array of colors!
+184|Blocks are available in a stunning array of colors!
+186|The sturdiest of blocks.
+188|Pretty orange flowers.
+190|Every one of these has its thorn.
+192|Nicely landscaped!
+194|These are surprisingly bouncy. Hold Jump as you land for maximum bounce.
+196|Careful with these, they'll stain! Throw it at a player to turn him blue for an hour.
+198|If you don't like it, you can always steam it off later.
+200|Modern and stylish.
+202|Locks 10 tiles around itself.
+204|Locks 48 tiles around itself.
+206|Locks 200 tiles around itself.
+208|Nobody will recognize you if you cover an inch of skin around your eyes!
+210|Referees and burglars have similar fashion sense.
+212|It's like a frog ate your head.
+214|It takes D batteries, and nobody ever has any D batteries! (Note: no actual batteries required.)
+216|Cock-a-doodle-doo!
+218|Legs getting tired? Have a seat!
+220|Rockin' 8-bit tunes.
+222|Stack a bunch of these in a row to make a table as long as you want!
+224|It's like a wall, except your friends can come in!
+226|When activated (punch to activate), this prevents your world from being listed on the World Select screen.
+228|Spray a tree to grow it an hour faster.
+230|Punch it to take a very quick shower!
+232|Does this make me look old?
+234|Ho ho ho!
+236|Does anybody else wear red pants with white cuffs?
+238|Celebrate the holidays in style.
+240|Share your joy! Wearing this makes you scatter your gems around as you move.
+242|Locks an entire world. If you have 100 World Locks, you can tap them in your inventory to combine them into a Diamond Lock. It does the same thing, but it's shinier.
+246|Guaranteed to put you to sleep.
+248|Do not look directly at Evil Bricks.
+250|Protects you from lava, reducing the damage by 50%.
+252|Cuzco was a good goat.
+254|Robot sure is greedy. Punch him to provide the Dubstep he seeks.
+256|Chest hair, gold chains, white vest. Disco lives.
+258|Hello, sailor!
+260|Just think how valuable this would be in real life.
+262|The mysterious rarity 100 item!
+264|Put it around your house, and live out the American Dream!
+266|Stylish, yes?
+268|Cool.
+270|If there was a Comb item, you wouldn't be stuck with this.
+272|Hair, both brown and long.
+274|Use this on someone to freeze them solid for 10 seconds.
+276|Use this on someone to MURDER THEM.
+278|You're on the HIGHWAY TO HELL!! (For 10 minutes)
+280|Is this even big enough to hold a Growtopian? Doesn't matter since you can't lay down!
+282|Everybody loves polka dots!
+284|It's black, it's white, yeah yeah yeah.
+286|Stay warm on those cold Growtopia nights. You can punch this to turn it on or off.
+288|The trick is putting liquid soap inside the snorkel!
+290|The essence of the shadows lurks within this mask. Put it on to cloak your entire body.
+292|Before these were invented, Ninjas wore corduroy pants, but their prey could always hear them coming.
+294|Shadows cloak your form as you slip behind the walls.
+296|Ninjas know how to stay comfortable while assassinating people.
+298|I'm attacking the darkness with my Magic Missile!
+300|Makes bathtime lots of fun! Punch it to make it quack.
+302|Don't be embarrassed to play Growtopia in your pajamas. Other players are wearing Fairy Wings.
+304|You filthy hippy!
+306|Be the life of the party!
+308|For when you can't choose just one color block!
+310|The very pinnacle of class is having good vision in only one eye.
+312|Avast ye, mateys.
+314|It's reversible! Swap it from eye to eye by pressing left or right.
+316|Nothing is quite as piratey as amputated limbs!
+318|The perfect gift to ask that special someone if they'll marry you.
+320|Punch this to fire it. Don't worry, it's loaded with blanks.
+322|Well, it looks pretty advanced!
+324|This block can hold 4.6 petabytes of data, but has no ports of any kind to access it.
+326|We had some leftover Magic Bacon, so we made it into wallpaper!
+328|Everybody loves to pop Bubble Wrap! Just walk in front of it to pop it. Unlike the real thing, this will un-pop in 10 seconds.
+330|A dangerously sharp plant! Do not touch.
+332|Your basic building block.
+334|It doesn't look like much alone, but it changes color when you punch it. Draw stuff!
+336|Classic fieldstone wall, stylish and sturdy.
+338|Everyone's a Captain Kirk.  Use this to make somebody float up in the air briefly!
+340|The classiest way to light a room!
+342|Isn't it lovely?
+344|Do you really have the legs for these?
+346|Not made from the feet of actual monsters, these are just rubber.
+348|They're like rings, but for your ears!
+350|HEROMAN HO!
+352|You found this on the ground, so best just to not lick it.
+354|There is no evidence that Vikings ever wore helmets with horns. They would have if they had thought of it, though!
+356|Marcia Marcia Marcia!
+358|Cloudstone is very rare, because it tends to fall out of the sky and just become Stonestone.
+360|Forged from the dreams of children on Christmas Eve. And marble. Like 90% marble.
+362|Better than a Halo, these will actually let you double jump!
+364|If you find yourself lost in a world without any Toilet Seeds, you'll be glad you have this.
+366|Once used by Cupid himself, this bow shoots hearts! You can yank other players toward you with it.
+368|Splat somebody with this to slow them down!
+370|The pockets even have pockets in them!
+372|Will you ever wash these?
+374|Your basic tan shirt.
+376|What's in the box!?  WHAT'S IN THE BOX?!
+378|Tinted glass for when the plain stuff just won't do.
+380|Not quite hot enough to hurt anybody, but it sure looks cool.
+382|Nobody knows where you will emerge when you fall into one of these! Except whoever set the destination using the Wrench.
+384|Use this on somebody to make them your Valentine for an hour! They'll appreciate it greatly.
+386|Chalky goodness emblazoned with an incomprehensible slogan you can't help but shout.
+388|Spray this on someone to make them smell... distinctive.
+390|This isn't actually solid Heartstone, it's just Heartstone-plated.  Kind of a letdown, really.
+392|Smash it for Valentine's goodies!
+394|The best of all possible trophies.
+396|One better than the Ultra Trophy 3000.
+398|Is that turkey ever going to be finished cooking?
+400|Spatula city, spatula city, SPATULA CITY!
+402|Kiss the chef.
+404|It's been signed by Gordon Ramsay!
+406|The most delicious incarnation of the humble blueberry.
+408|SHUT UP ALREADY.
+410|If you die, you'll respawn at the last Checkpoint you touched!
+412|This doesn't really do much by itself!
+414|If you aren't in range of a Boombox, this will play a bass note for you. Put it in different places for different pitches.
+416|This plays a half-step higher note than Sheet Music: Bass Note.
+418|This plays a half-step lower note than Sheet Music: Bass Note.
+420|If you aren't in range of a Boombox, this will play a piano note for you. Put it in different places for different pitches.
+422|This plays a half-step higher note than Sheet Music: Piano Note.
+424|This plays a half-step lower note than Sheet Music: Piano Note.
+426|There are 7 different drums, place this at different positions vertically to hear different ones!
+428|Starts a race timer. Get to a Race End Flag to record your time!
+430|A player touching this will finish a race started at a Race Start Flag, and their time will be announced.
+432|Vaguely inspired by Vincent Van Gogh!
+434|Lovely beige bricks.
+436|Unfortunately, nobody knows the correct translation of these ancient symbols.
+438|Standard steel pipes, slightly too small for you to climb into.
+440|Slippery, yet strangely not melting.
+442|Is it a desert or a beach? You decide!
+444|If there's a fish in there, he's hiding in the castle.
+446|Just the thing to wear to the sock hop!
+448|No, it doesn't increase your carrying capacity.
+450|Did you just stick a fishbowl on your head?
+452|Get all dressed up for the Renaissance Faire!
+454|This is what happens when you give a flower a taste for magic bacon!
+456|Punch it to roll a random number!
+458|This would be a great place to store your clothes! Too bad the drawers are stuck.
+460|You don't actually need light in this game, but you can get it anyway!
+462|You look sharp, kid! Sponsored by i20HH.
+464|You're a real firecracker, I tells ya! You're one feisty dame!
+466|There's a hanky in the pocket in case you /cry on the auspicious occasion of your daughter's wedding.
+468|Beautifully tailored with a sleek, slim leg, this pinstripe pant is utterly flattering and entirely appropriate for workday, weekend or wherever the evening takes you.
+470|Surgeon General's Warning: Secondhand smoke can make you go :P.
+472|Fully automatic firepower to give them coppers what-for!
+474|You'll be the star of the speakeasy in this getup.
+476|Dance the night away in this short dress that is clearly the bee's knees.
+478|I don't know what this looks like actually, but it kind of looks nice, doesn't it? You'll find a place to use it!
+480|When Olde Timey Radio is too modern, try a classic Victrola for some jazzy tunes!
+482|It points the way to whatever you want it to!
+484|It points the way to stuff above you!
+486|It points the way to stuff below you!
+488|This serves some sort of exercise purpose.
+490|Keep the sweat out of your eyes!
+492|Now you are ready to play for the home team! Or the away team! Go team!
+494|Good for both joggers and mobsters.
+496|Special air pockets and coils in the soles of these shoes make them... cost more. But they do make you run faster!
+498|Leave only footprints.
+500|It's like springtime all up in your business!
+502|The finest in televangelist couture.
+504|You're not much of a bunny without big ears, but it's a start.
+506|Any hearing improvements imparted by this hat are negated by the fact that it covers your actual ears.
+508|This basket is filled with plastic grass for some reason.
+510|A paler shade of awesome.
+512|A paler shade of awesome.
+514|A paler shade of awesome.
+516|A paler shade of awesome.
+518|A paler shade of awesome.
+520|A paler shade of awesome.
+522|A paler shade of awesome.
+524|I'm concerned about how you're holding this in place.
+526|Bouncy bouncy bounce!
+528|Stick this in your ear to become super lucky and partially deaf!
+530|Like Santa Claus, but with more Vitamin C!
+532|There's a four-leaf clover jammed in the band! But all the luck in it has been used up already.
+534|I used to wear green jeans myself, until somebody made fun of them. Never again!
+536|You don't have to be a leprechaun to wear a green suit with gold trim - don't believe the hype!
+538|These are very hard on your toes.
+540|The green dye used in this beer was outlawed in 43 states. Take a drink and find out why!
+542|An entire pot filled with gold!!
+544|You monster!
+546|Step through it. There is cake on the other side.
+548|People inside this should not throw stones.
+550|Someone glued all these books down!
+552|Looks like a Wood Block, but your friends can come in!
+554|This is a specially designed one-way ladder - you can only climb up, not down.
+556|It's a Grey Block squashed flat!
+558|It's a Red Block squashed flat!
+560|It's an Orange Block squashed flat!
+562|It's a Yellow Block squashed flat!
+564|It's a Green Block squashed flat!
+566|It's an Aqua Block squashed flat!
+568|It's a Blue Block squashed flat!
+570|It's a Purple Block squashed flat!
+572|The one and only!
+574|Turtle Hat would definitely never sue anybody, because he's totally original.
+576|Express your wrath with this evil mask. Sponsored by i20HH.
+578|You were there, man. You were THERE when time rolled backwards and all the fruits of your labors turned to dust in your dry, bitter fist. Feb 2013
+580|It's much happier, but much less rare, than a Rollback Plaque.
+582|Wizard Hats come in 5 classic styles, collect them all!
+584|Wizard Hats come in 5 classic styles, collect them all!
+586|Wizard Hats come in 5 classic styles, collect them all! This one is an officially licensed copy of the one Merlin himself wore (it's not signed or anything, though).
+588|Wizard Hats come in 5 classic styles, collect them all!
+590|Wizard Hats come in 5 classic styles, collect them all! Too bad this style is CURSED!!
+592|It's possible this is actually a dachshund, but you can still ride it! It's faster than walking.
+594|This is the very weapon once used by Aeldrinn Zindeltwarp to defeat the Slaarn Hordes in the battle of Fizzletree Gulch!
+596|Store your treasures inside by dropping them! When it's closed, the items are hidden. Punch to open it.
+598|Punch it to open or shut it. Anyone unlucky enough to be caught inside when it closes becomes dragon chow.
+600|These are usually only worn by the highest rank of wizards. For you, we'll make an exception.
+602|There's some seriously kickin' beats going on in there, but you can't hear it, because they're headphones. Sponsored by JakeShore, ADMex1, and RovSpy.
+604|This ancient blade is forged of purest gold. Which means it's really really dull, and quite easy to bend.
+606|An excellent place to shoot fish.
+608|It's a sign that sticks to walls or ceilings! Use your Wrench on it to change the message.
+610|Think of it as a seed, only magic. If you plant it, you can use more Magic Eggs on it to grow it bigger and bigger. Break it anytime for a surprise! You can also splice it... but with what?
+612|Perfect for building gazebos.
+614|Throw it at somebody to make them stink!
+616|Toss one to someone you love. Who wouldn't like a cuddly rabbit?
+618|It's got a vicious streak a mile wide! Share it with your... friends?
+620|This copper piping is both smaller and farther away than the green Plumbing.
+622|This is the best place to superglue a hardhat.
+624|SPROOOOOOOING
+626|Draw black and white pictures with the wondrous power of the tangram!
+628|Draw black and white pictures with the wondrous power of the tangram!
+630|Draw black and white pictures with the wondrous power of the tangram!
+632|Draw black and white pictures with the wondrous power of the tangram!
+634|Draw black and white pictures with the wondrous power of the tangram!
+636|Draw black and white pictures with the wondrous power of the tangram!
+638|Draw black and white pictures with the wondrous power of the tangram!
+640|Draw black and white pictures with the wondrous power of the tangram!
+642|Draw black and white pictures with the wondrous power of the tangram!
+644|Draw black and white pictures with the wondrous power of the tangram!
+646|Draw black and white pictures with the wondrous power of the tangram!
+648|Draw black and white pictures with the wondrous power of the tangram!
+650|You could take roll on this, except that somebody glued the chalk to the tray.
+652|So uncomfortable you refuse to even sit in it!
+654|Your basic old-school building material.
+656|You've got mail! People can write you private messages with this.
+658|Lets people communicate by leaving messages to each other.
+660|Who needs email? The old ways are best!
+662|It's peanut butter jelly time!
+664|It's holier than thou.
+666|The classy way to decorate with rock!
+668|The MOST classy way to decorate with rock!
+670|It's too big to write with!
+672|Hey, it's the guy from the game icon! Carry your lunch inside.
+674|Makes you look like a librarian.
+676|This keeps doctors away for up to 24 hours!
+678|Soar on the wings of a crimson eagle! Sponsored by Morphieus.
+680|The bleakest of stones.
+682|This dark stone is the latest in dungeon couture.
+684|Hello Dad, I'm in jail!
+686|You don't need a spoon to dig out, just open this.
+688|Ew, it's a dead guy.
+690|Heads are gonna roll...
+692|When duct tape just won't cut it, we lock you in a tower with this on your face.
+694|You look like a sad little muppet.
+696|Keeps the dank out in your dungeons! Well, it reduces it slightly. You can punch this to turn it on or off.
+698|Super-special kitty ears, now yours to wear! Once only for a select few, meow yours to wear with pride!
+700|Aqui esta el sombrero.  El sombrero es muy bien.
+702|It's like you threw a blanket in the washing machine along with a bag of Skittles.
+704|Good for twirling when you are tying somebody to a railroad.
+706|To help you /dance with class.
+708|Someone told me there's a girl out there with love in her eyes and flowers in her hair.
+710|Take the fiesta with you everywhere you go!
+712|Caution: This is one seriously hot pepper!
+714|The Olmec people were known for two things: giant stone heads... and PARTYING DOWN!
+716|Adobe is a fantastic material for building both sturdy housing and Flash games.
+718|This is summoned by the Pinata Bash event, it's not an item a player can use.
+720|Put this on top of a bunch of items you want to give away.  Once placed, anybody can break it and get the items!
+722|Call your friends, then blow the whistle for a Piñata Bash! It's impossible to bash a pinata by yourself, so seriously CALL YOUR FRIENDS first, or you'll waste your whistle!
+724|I don't know why you would stick a bucket that smells on your head, but it has eyeholes in it, so it's not useful as a bucket! Sponsored by Stinkbuckets.
+726|DO NOT TOUCH ALSO!!
+728|Believe it or not, you're walking on air!
+730|Alternatively, harem girl pants.  Think of them however you like.
+732|Use this on someone to ban them for 10 minutes.
+734|KILL ALL HUMANS.  Or just kill rocks - the Cybernetic Arm is superior to a human arm at all digging functions. Sponsored by i20HH.
+736|Super special wings that are only for Play!
+738|Slick n' greasy, and nobody but Lokster can wear it.
+740|Get your name up in lights!
+742|Let's call a spade a spade.
+744|Join the club, man.
+746|Have a heart!
+748|Diamonds are forever!
+750|If you rub this, it will vanish and you will become lucky for half an hour!
+752|Flip the coin and see what you get!  What you won't get is your coin back.
+754|Ever wondered where these come from? Early incandescent lights were very harsh, so this dims things for you a bit without impeding your vision.
+756|Big money, big money, no whammies.... (odds of pretend winning are 1 in 10).
+758|Spin the wheel and take your chances! Where she ends up, nobody knows!
+760|Without a source of antimatter, all this ship can do is hover along the ground. Sponsored by Pleiadian.
+762|These doors only open if you know the magic word... which you do, because you set it.
+764|It would be dangerous to throw this on someone, not to mention downright rude!
+766|Baby, you're much too fast.
+768|Shop smart, shop S-Mart.
+770|Don't worry, you've combed it so well that nobody can even tell you're bald!
+772|The perfect outfit for those occasions when you are zapping lightning through a corpse.
+774|Zombies usually respect all traffic laws, so these are handy to have around.
+776|This barrel is filled with a highly unstable compound. Well, not filled exactly - some of it's dripping onto the floor. Approach with caution!
+778|Usually safely stored in barrels, but currently stored ON YOUR FACE.
+780|Do not lick under any circumstances.
+782|This is THE antidote. To everything. Drink up, and you shall be cured!
+784|Looks like somebody got too close to some Death Spikes.
+786|This radio is your last link to the human race... so why is it just playing spooky music?
+788|These military surplus boots are steel-toed and spike-soled. Hey hey, do the zombie stomp!
+790|It's gots lots of pocketses!
+792|Nobody but Jens is so wise and ancient.
+794|You're almost the Statue of Liberty.
+796|Sparkly!
+798|Sparkly!
+800|No one is ever going to trust you with a probe again. Sponsored by Pleiadian.
+802|You really don't want to drop this on your toe. Sponsored by JakeShore.
+804|You really don't want to drop this on your toe. Sponsored by PirateHunter.
+806|You really don't want to drop this on your toe.
+808|You really don't want to drop this on your toe.
+810|The energies contained in this blade are struggling to burst free.
+812|Twice the sabery goodness, with half the calories!
+814|She's the symbol of a revolution in moderating!
+816|If you had skin on your face, this would really be painful. Sponsored by Ticklehead.
+818|Rippling bands of dark energy carry you aloft. Sponsored by Ripply.
+820|Dark orbs for a dark heart, these floating spheres still radiate evil from their long-lost master...
+822|Splash it around to make things wet. It can also scoop up water, though there's a good chance you'll just spill it. Butterfingers.
+824|Keep your best items cold so they don't spoil! When it's closed, the items are hidden. Punch to open it.
+826|Wow, you get 5 emeralds for the price of 1!
+828|Considering the size, this is the most valuable ruby in existence. But it's only a video game.
+830|This magical object requires 100 Fireworks to detonate. It will create a brand new pristine beach world!
+832|This is a very special breed of coral that survives just as well in and out of water.
+834|Use this for a splendid celebration!  Or save it for more important things.
+836|It's a box filled with summer excitement! Smash it with your friends.
+838|Hop in the pool, it's warm!
+840|Hop in the pool, it's warm!
+842|Feel the island rhythms.
+844|These aren't the best way to move on land, but they'll zoom you through water like a dolphin!
+846|See weed?
+848|If they had just let this palm tree live, you could've sat under that instead of a bunch of dead fronds.
+850|It's the back side of the ocean! Or a lake, whatever.
+852|A bit sweaty to wear during the dog days of summer. Sponsored by Barkbits.
+854|These seeds of course grow on a Palm Tree Tree. Which looks nothing like a Palm Tree.
+856|Yuck, man. I hope somebody cleans this up.
+858|Not for use in submarines.
+860|Whether you're making a classy manor or a haunted mansion, you can't go wrong with wrought-iron!
+862|Show people where they need to go in style!
+864|Don't worry, those aren't your real eyes, they're just plastic.
+866|Moooooo. You can milk a cow once a day or so!
+868|It does a body okay, though there are lower-fat ways to get calcium.
+870|Moo. This little baby cow will follow you everywhere you go!  Mainly because it's tied to your wrist.
+872|BAWK BAWK BAWK. Chickens will lay eggs for you about once a day!
+874|Toss these all over, if you want to be a horrible vandal.
+876|Peep peep! This little baby chick will follow you everywhere you go! Mainly because it's tied to your wrist.
+878|Oink oink! This little piglet will follow you everywhere you go! Mainly because it's tied to your wrist.
+880|You're not in Kansas anymore... but if you were, it'd pretty much look like this.
+882|Flap flap! This little butterfly will follow you everywhere you go! Mainly because it's tied to your wrist.
+884|'Tis a fine barn, but sure 'tis no pool, English.
+886|Shut it! Were you raised in a barn?
+888|This wood is red, but it's not redwood, it's oak. It's just painted red.
+890|Keeps the sun off of you as you farm all the live-long day.
+892|You feel like you could whitewash fences all day in this getup, yes sir!
+894|Whether you're turning over hay, poking evildoers in the tukhus, or just eating incredibly large noodles, this is the tool for you.
+896|I reckon ya'll oughtta whitewash that thar fence!
+898|Too lazy to push buttons to farm? The tractor will do it for you!
+900|Call forth the Dragons of Legend! Please be aware the legends may have been a bit exaggerated.
+902|High voltage can lead to severe trauma and even, in extreme cases, frizzy hair.
+904|Not recommended to protect your eyes from acid - Ze Goggles, they do nothing!
+906|In the mad science business, electrocution is a constant hazard. The mad scientist Don King knows this well.
+908|You're a serious show-off, you know that? Nobody needs to see this.
+910|It's ALLLLIIVVVVEEE!!!
+912|Drop three stacks of items on this, then punch it to attempt to process them into a fabulous new item! It can only mix exactly 3 stacks. Most combinations will do nothing, so experiment!
+914|This is a highly toxic chemical. Do not ingest! Place carefully in a Laboratory to combine with other chemicals and create amazing new things.
+916|This is a highly toxic chemical. Do not ingest! Place carefully in a Laboratory to combine with other chemicals and create amazing new things.
+918|This is a highly toxic chemical. Do not ingest! Place carefully in a Laboratory to combine with other chemicals and create amazing new things.
+920|This is a highly toxic chemical. Do not ingest! Place carefully in a Laboratory to combine with other chemicals and create amazing new things.
+922|This recently-discovered formulation is incredibly dangerous! Do not even LOOK AT IT. Place carefully in a Laboratory to combine with other chemicals and create amazing new things.
+924|This is a highly toxic chemical. Do not ingest! Place carefully in a Laboratory to combine with other chemicals and create amazing new things.
+926|Stack a bunch of these in a row to make a table as long as you want!
+928|The ideal station for performing SCIENCE! You can collect experimental results about twice a day.
+930|For safety reasons, we've had to disable the "Death" portion of this device. It is pretty hard on blocks, though.
+932|Punch this to enjoy the wonderful Growtopian weather. Not much use most of the time. This sensitive technology will not function while damaged.
+934|Night is arguably the most common form of weather. Seems like every evening, a dark front just rolls right in. This sensitive technology will not function while damaged.
+936|Oddly, Redbone's skull is bigger than his head.
+938|It's GRRRRRRRrrreat!
+940|Also GRRRRRRRrrreat!
+942|Use this astounding device to create an entirely new desert world. One free pyramid included.
+944|It's like a rock, but dirtier.
+946|It's amazing how a little change in the weather can completely reshape the mountains! This sensitive technology will not function while damaged.
+948|Punch it to see the top worlds of the day! This sensitive technology will not function while damaged.
+950|Mmm, fresh-baked!
+952|If science isn't pink enough for you, then mix your chemicals in here! For SCIENCE!
+954|The sweetest stalk of grass you'll ever chew!
+956|D'oh! This is raw!  What can we do with it?
+958|Mmm, fresh-baked sweetness!
+960|It's a spicy gooey treat! Watch out though, it's really hot.
+962|Express your displeasure with a performance in vegetable form!
+964|I'll have the Supreme With Cheese!
+966|The most delicious incarnation of the humble apple.
+968|You're really not using all the parts of the animal, are you?
+970|Some speak of an ancient curse placed on this idol. Others speak of a free frogurt. Who knows what to believe anymore?
+972|What could lurk behind such a barrier? Ancient secrets? Cursed mummies? Perhaps a stash of purple blocks.
+974|Punching this mystical stone makes it pulse with dark energy...
+976|This alien artifact can teleport you to distant worlds, but only if it's charged with the power of 7 Obelisks first.
+978|Yuck, this stuff is slippery and gross!
+980|Tap this to check out your own personal info!
+982|Only usable in a world-locked world. Use your wrench to etch any achievement you've earned into it! Only the owner of the World Lock can etch it.
+984|It's just another rainy night... without you, jet city woman. This sensitive technology will not function while damaged.
+986|The classic method of identifying streets. Use your Wrench on it to change the message.
+988|Gargoyles just love hanging out, man.
+990|The perfect perch for a gargoyle.
+992|Light on a stick!
+994|Most of this is actually bricks, but there's a little bit of sidewalk at the top!
+996|It's not the nicest place to live, especially since you can't even enter it anyway.
+998|This meets all safety standards. I mean, you know, pretty much. Well, it looks safe to me at least. Maybe not safe exactly... more like non-lethal. Well, not always lethal. Lethal on occasion?
+1000|DO NOT TOUCH!
+1002|These are surprisingly bouncy. Hold Jump as you land for maximum bounce.
+1004|Neatly trimmed, to keep the neighborhood tidy.
+1006|You've got mail! People can write you private messages with this.
+1008|Your very own Automated teller machine...machine. This device is not FDIC insured. It does, however, spit out a random number of gems about once a day!
+1010|Dr. Destructo's unstoppable beam of annihilation.
+1012|Clop clop clop.  Coconuts not included.
+1014|Static electricity in this bracelet draws tumbleweeds towards you. One, at least.
+1016|Did I shoot five bullets or six? Doesn't much matter, since in Growtopia you can just keep shooting forever!
+1018|It's possible this is actually a dalmation, but you can still ride it! It's faster than walking.
+1020|The dainty way to slow your fall! Hold the jump button while falling to keep the parasol open.
+1022|Yeehaw! Git along little horsies which may be doggies!
+1024|Strike fear into the hearts of your enemies, until they realize you just put your lipstick on really badly.
+1026|When you don't want anyone to recognize your chin, this is the perfect disguise.
+1028|Round up the badguys with this enduring symbol of authority. Comes with adorable kerchief.
+1030|We've attached specialized Safety Spurs to these boots, so you don't hurt anybody. Please respect other peoples' ankles.
+1032|These lovely golden locks make you look like a right purty damsel.
+1034|Feeling fat? You could exercise... or you could just cram your gut into one of these! Oh sure, you may end up with spinal deformities, but beauty demands pain!
+1036|Your girl. She's not very good. She made you a dress that looks like you bought it in a store.
+1038|This isn't a real building, it's just a painted piece of plywood.
+1040|When you really need to make an entrance, you can slam these open. Just don't get shot doing it.
+1042|I don't know what language this is, but they spoke it in the old west.
+1044|You really don't want a home where these guys roam. You can milk a buffalo once a day or so!
+1046|This is an ideal place to lean while chewing on straw and saying "Yep." It also keeps animals in place.
+1048|Gather round and sing songs of days of yore...
+1050|On this paper is scrawled a deep secret of Growtopia. But to read the mystic scrawls, you must throw the paper to the winds! I don't know, that's just how it works. One of those secrets of Growtopia, I guess.
+1052|This mysterious crystal has the power to transform one object into another, but only in the fiery furnace of a Laboratory or E-Z Cook Oven.
+1054|A soothing dim light for evening festivities. You can punch this to turn it on or off.
+1056|This sweet steamed rice cake is said to lead to a bright future for whoever eats it. Eat up! You can also mix it with Mooncakes in a Laboratory or E-Z Cook Oven to create special Harvest Festival items.
+1058|This pastry is filled with a sweet bean paste. "Harmony" is imprinted on the top in ancient Growtopian script. Mix this with other Mooncakes in a Laboratory or E-Z Cook Oven to create special Harvest Festival items.
+1060|This amazing lunar device will create a new world with a unique harvest moon background, filled with random trees ready to harvest!
+1062|Spray a tree to instantly grow it to full size! Can only grow 30 day's growth at the most, but that's longer than almost any item takes.
+1064|Notice how there are NO crows around? This thing is working!
+1066|Release this lantern into the wind to celebrate the harvest!
+1068|This creepy blade can chop down trees with great precision - you'll get twice as much fruit! The only downside is that it's highly likely to break when used. It has no effect (but won't break either!) on trees of rarity 100 or more.
+1070|These festival clothes are extra festive!
+1072|These festival clothes are extra festive!
+1074|These festival clothes are extra festive!
+1076|These festival clothes are extra festive!
+1078|These festival clothes are extra festive!
+1080|These festival clothes are extra festive!
+1082|These festival clothes are extra festive!
+1084|These festival clothes are extra festive!
+1086|These festival clothes are extra festive!
+1088|Classy and festive at the same time.
+1090|This style of hat is cleverly strapped to your head so it won't blow away.
+1092|Look at that cheesy grin.
+1094|This pastry is filled with a sweet bean paste. "Peace" is imprinted on the top in ancient Growtopian script. Mix this with other Mooncakes in a Laboratory or E-Z Cook Oven to create special Harvest Festival items.
+1096|This pastry is filled with a sweet bean paste. "Longevity" is imprinted on the top in ancient Growtopian script. Mix this with other Mooncakes in a Laboratory or E-Z Cook Oven to create special Harvest Festival items.
+1098|This pastry is filled with a sweet bean paste. "Prosperity" is imprinted on the top in ancient Growtopian script. Mix this with other Mooncakes in a Laboratory or E-Z Cook Oven to create special Harvest Festival items.
+1100|Add a touch of class to your architecture! Also, keep it from falling down.
+1102|These massive trees live for thousands of years. Please don't punch them.
+1104|You can't see the forest for this stuff.
+1106|This ancient greek vase could be filled with just about anything! But my bet is on gems and possibly a seed.
+1108|This daisy is in a pot. Pretty simple, really.
+1110|Way trippy.
+1112|Tres trippy.
+1114|We warned you to stay away from the toxic waste barrels.
+1116|You want respect, you gotta EARN it. Or wear these shoes. BAM, instant respect.
+1118|They come complete with suspenders! Which is a good thing, since they're a BIT big.
+1120|Just the basics!
+1122|HONK HONK
+1124|It's just crazy, man.
+1126|If you wear this, then YOU'RE #1! YOU'RE #1! YOU'RE #1!
+1128|Caution: contents may be hot.
+1130|Green power all the way!
+1132|Mars is dirty.
+1134|This is a rock from Mars.
+1136|This amazing device will create a new world... Mars, to be exact!
+1138|I planted a tree, and it grew up so big, it grew two sizes up from an extra-large Squig! The tree had blue puffs at the end of each branch, so under the puffs we did the Zorbity Dance!
+1140|This contains all the essentials you need for a successful extravehicular activity trip, including a book of sudoku. It also makes you jump like you're on the moon.
+1142|Multiple layers offer protection against cold, vacuum, radiation, and parasitic alien infestation. Of course it's also sleeveless, so....?
+1144|A space suit isn't going to protect you very well if you don't put on the pants too.
+1146|It's just one small step for a Growtopian, one giant leap for Growtopia.
+1148|Now you can be one of those creepy astronauts with a chrome-plated face, where nobody knows who you are and what you're up to.
+1150|ZYERBLRB! This little zorbnik will follow you everywhere you go! Mainly because it's tied to your wrist.
+1152|You can't do much with just some Zorbnik DNA... unless you collect 10 Zorbnik DNA and use them all together, that is.
+1154|Got things in space you want to stick together? Nothing works better than a space connector.
+1156|It's a White Block squished flat!
+1158|It's a Black Block squished flat!
+1160|Wow, the view from up here is simply amazing!
+1162|This directed energy field has the power to function as solid matter for people who aren't invited, while being completely permeable to anyone else.  I guess that makes it a door.
+1164|This technology is incredibly advanced - you could run an entire starship on this Compu Panel! If you had any idea what any of the buttons did.
+1166|This cape imparts mystical powers upon its wearer.
+1168|You must have a really greasy pillow.
+1170|Wearing these impedes lip movement just enough to induce a Transylvanian accent.
+1172|Looks like you won the gold medal in bloodsucking!
+1174|You were there, man. You were THERE when time rolled backwards again and all the fruits of your labors turned to dust in your dry, bitter fist. Oct 2013
+1176|Shouldn't this belong to INightmareI?
+1178|Did you forget to feed your horse again?
+1180|This miraculous device allows you to commune with spirits from the Other Side.
+1182|Surely you're just a big sports fan... right?  Right?
+1184|It's hard to speak through these bandages!
+1186|You're bad to the bone.
+1188|The fun bonus is that you can take this off, and then you're wearing your "daytime wolfman mask".  It's almost 2 masks in one!
+1190|Mrow! The bad thing about wearing this leash is that you end up with a black cat constantly crossing your path.
+1192|Your hair's such a mess, you look like you just stepped out of a TV.
+1194|Is it just your imagination... or are the walls actually stretching?
+1196|I think this pumpkin is haunted... when you punch it, spooky music comes out!
+1198|This pumpkin was grown inside a square box.
+1200|This pumpkin was grown inside a square box, and then carved up.
+1202|This pumpkin was grown inside a square box, and then carved up, and then had a lit candle put inside.
+1204|These eyes are a bit shocking.
+1206|You don't jump higher than with normal wings, but man, you do look pretty cool.
+1208|Every year, they collect all the uneaten Candy Corn and store it again, to be given out the next year.
+1210|Darkness falls across the land... The midnight hour is close at hand...
+1212|Not much by itself, but if you had 25 of these, I bet you could mush them together into something pretty good! Or a gross hairball.
+1214|Mrow HISS! This black cat contains the very essence of dark magic. Unfortunately, it's a cat, so you can't get it to use the magic for you.
+1216|You look a little shady in this thing...
+1218|Just the thing to worship Growganoth in!
+1220|Unlike the Sigil of John Tesh, which is smooth and jazzy, this arcane emblem grants you favor with Growganoth. Sadly, that means it will teleport you directly into his gaping maw.
+1222|These stones were mined in an alternate dimension where rocks float in the air.
+1224|A Creepstone Platform turned off. Not for players.
+1226|Don't let it look at you! Luckily, it is very near-sighted, so you'd have to actually touch it for it to see you. Which would kill you, by the way.
+1228|Greenswe is indecisive, but stylish.
+1230|Did you stick your finger in a light socket?
+1232|Meep meep! This bracelet attracts bats. Well, A bat.
+1234|This is about half of a Devil Wing. So if you had four of these, you could make a pair of Devil Wings!
+1236|They're not fat, they're just big-boned!
+1238|So sticky AUGHH!!!
+1240|Place this device and anybody can watch it to see if you are online! Or alive. Note: it can't actually tell if you're alive. But it will beep if you are online!
+1242|Keep your hair out of your eyes while performing surgery with this sterile cap.
+1244|Stop spreading your germs around!
+1246|Special sterilized clothes, for chopping folks up!
+1248|Even your knees need to be kept sterile when you are operating.
+1250|Its wife is ALLLLIIVVVVEEE!!!
+1252|This has over 10,000,000x magnification, allowing you to clearly see the virus that is ... wait, is that virus following you around? RUN!
+1254|This has over 10,000,000x magnification, allowing you to clearly see the retrovirus that is totally grooving on your vibes.
+1256|Lay in this bed and one of our doctors will see to you as soon as possible.
+1258|Used only in surgery. If you make a mess, a sponge can suck it up easily!
+1260|Used only in surgery. Use this to cut people open!
+1262|Used only in surgery. You probably don't want to operate on somebody unless they are unconscious. Use this to knock them out!
+1264|Used only in surgery. Don't mix this up with Anesthetic!  This is used for cleaning an area before you cut it open.
+1266|Used only in surgery. If someone gets an infection, antibiotics should clear it up.
+1268|Used only in surgery. If somebody has a broken bone, you better splint it up or it'll heal all crooked.
+1270|Used only in surgery. Bandages are included too, for lesser injuries. Use these to close up after performing surgery, or repair existing cuts and bleeding.
+1272|For the sake of your fellow Growtopians, we limited the siren. But you can still enjoy the flashing lights!
+1274|Only the chief of surgery can afford a speedy electric car like this!
+1276|When activated (punch to activate), this prevents people from punching each other in your world.
+1278|When activated (punch to activate), this prevents zombies from infecting anyone in your world.
+1280|A little white-out, a little scribbling, and voila, you'll have a new name! Use this item to change your GrowID permanently. Can only be used once every 30 days. Requires a GrowID. Is consumed when used.
+1282|Red wig included. And stapled on.
+1284|I wonder where on earth this nurse's uniform gets its name from...
+1286|This is also nice if you want to work at the kind of burger restaurant that requires Pieces of Flair from its wait staff.
+1288|This helps maintain your privacy when you are undergoing delicate medical procedures.
+1290|The soothing pale yellow tone and complete lack of anything interesting helps speed healing and make people want to get out of there.
+1292|Looking out at nature is supposed to help you recover.
+1294|This door is designed to be easy to push open when you're rolling a body around on a cart. Place one and then use your Wrench on it to set the destination.
+1296|This item doesn't really exist, just using its icon for surgery menu.
+1298|If you want to make an interior view of a building, you can use these blocks to show the walls and floors!
+1300|Punch it to roll Rock, Paper, or Scissors.  What you do with the resulting information is entirely up to you!
+1302|This cow is squarer than most.
+1304|Sometimes it's nice to climb a staircase instead of hopping up platforms. Unfortunately, you'll also have to hop up the staircase - Growtopians can't climb.
+1306|You should plant your trees in these.  It's just classier.
+1308|These vines can grow to extraordinary heights.  Provided you place Climbing Vine blocks up to extraordinary heights.
+1310|I have no idea what this thing does. It's something electronic? Maybe?
+1312|You look like you should be in charge of magical animals with this beard.
+1314|Unlike an actual pony, your tail grows out of the back of your head.
+1316|Take joy in the great glowing orb that provides energy for all those toilet trees to grow!
+1318|"Well, what you plan and what takes place ain't ever exactly been similar."
+1320|I know, they're supposed to have feathers and stuff nowadays... Well, this is an old-school raptor!
+1322|If your friends all jumped off of this, would you?
+1324|It's like a Wooden Platform that's been sitting outside since prehistoric times.
+1326|Who knows what lurks inside? I guess whoever placed it and used a wrench on it to set the destination.
+1328|Much like people, palm trees started out short and squat before evolving to be tall and skinny. Unlike palm trees, people then ate Twinkies and watched TV until they were tubby again.
+1330|We've come a long way in methods of settling disputes, but this technique still works.
+1332|Clothing so stylish it'll make you shout "Rabble Dabble Goo!" - you know, to make sure you don't get sued.
+1334|The chicken grease helps the bone stay in, and it adds luster.
+1336|I think you've gone feral.
+1338|The chicken grease helps the bone stay in, and it adds luster.
+1340|Is it for cold weather or warm weather? Who knows! It's the world's smallest parka.
+1342|It's kind of itchy.
+1344|This is very ancient ice, chipped from a glacier. Don't just use it to cool your drink!
+1346|Hey, there's some prehistoric DNA stuck in this ice! Most likely you'd ruin it by punching it. But maybe there's a chance...
+1348|Hey, there's some prehistoric DNA stuck in this ice! Most likely you'd ruin it by punching it. But maybe there's a chance...
+1350|The word "mammoth" has really lost all meaning at this point.
+1352|I have no idea what this thing does. It's something electronic? Maybe?
+1354|I have no idea what this thing does. It's something electronic? Maybe?
+1356|Or is it Rocky Snow? It's not. The snow is on top.
+1358|You just wanna lick 'em!
+1360|The joy of giving! You can use this on yourself to open it and get a surprise, or use it on another player to give it to them. If you are feeling extra cheerful, you can also give it to The Growch!
+1362|This fence is terrible for keeping kids off of your lawn.
+1364|Man, the weather outside is frightful!
+1366|not used, it's just an icon.
+1368|Brrr! Toss this at a player to freeze them briefly.
+1370|Tinsel is so distracting. Celebrate with an unadorned aluminum pole.
+1372|This candle is enormous, but not hot enough to do any real harm.
+1374|This dumpling soup is warm and toasty to keep you punching, building, and growing during the winter.
+1376|Fly this colorful kite to ring in the new year!
+1378|Another of the Dragons of Legend! Please be aware the legends may have been a bit exaggerated.
+1380|Hey hey hey!
+1382|The red checkers alert other hunters not to shoot you, but the antlers make you a prime target. We've scientifically designed this hat to ensure that your odds of being shot remain precisely the same as if you weren't wearing it. Note: Wearing this also makes guns and bows kill you!
+1384|Warning: wearing this could result in exclusion from reindeer games.
+1386|So warm and toasty! It's like you sliced open a deer and crawled inside.
+1388|So warm and toasty! It's like you sliced open a deer and crawled inside.
+1390|People can drop gifts into this box for you to pickup later!
+1392|So warm and toasty! It's like you sliced open a deer and crawled inside.
+1394|If you look out your window and see this guy, you are looking south. Or at a zoo. Or at somebody playing Growtopia.
+1396|I have no idea what this thing does. It's something electronic? Maybe?
+1398|These blocks cannot be seen. Thus they cannot be used by players, because that would be a nightmare.
+1400|Ah, he just wants to tag along!
+1402|Use this fabulous device to create a brand new world that is completely empty, except for bedrock and a white door.
+1404|Use this fabulous device anywhere in a world you have world-locked to move the White Door to a new location.  There must be an empty space where you tap and another empty space below it for this to work.
+1406|Celebrate the holidays by firing off colorful rockets!
+1408|PARTY DOWN!!!!
+1410|PARTY DOWN!!!!
+1412|PARTY DOWN!!!!
+1414|PBBBBBLLLLTTTT DOWN!!!!
+1416|PARTY DOWN!!!!
+1418|PARTY DOWN!!!!
+1420|Dress up your mannequin with clothes! Use your Wrench to change the sign on it.
+1422|Drop items for sale in these handy boxes! Only players with access to the lock can pick them up!
+1424|If you trade this to another player while in a world that you own, they will become the owner of your World Lock!  Use it to trade worlds safely.
+1426|Tell people what you're selling! Use your Wrench on it to change the message.
+1428|Say something about Gems on this sign.  I guess? Use your Wrench on it to change the message.
+1430|Let everyone know you're running a shop! Use your Wrench on it to change the message.
+1432|Excited about something?  Let people know! Use your Wrench on it to change the message.
+1434|Punch it to ring up a sale!
+1436|This camera will watch your world and keep a record of everybody who enters! You may have up to 8 of these in a world.
+1438|This tool, made to honor Diichaan's service as a moderator, is worth more than the stuff you mine with it!
+1440|Found in a teeny-tiny spaceship, this helmet is surprisingly normal-sized. What brave star traveler could have worn this?
+1442|Styx has a burning sensation.
+1444|Brr! This shivering style is only for the coldest of the cold. Whoever created it must have been a chilly soul indeed - where could they be now?
+1446|You can punch this to switch it between Open and Closed! Let people know if you're around.
+1448|Yes kids, TVs really used to look like this! And they didn't have color screens! And they showed westerns! GET OFF OF MY LAWN!
+1450|Just the thing to watch your TV on. Except your TV can only face the opposite direction.
+1452|People can drop gifts into this box for you to pickup later!
+1454|Kiss the cook!
+1456|I pity the fool who doesn't wear a set of these.
+1458|This crystal can be combined with 200 Candy Hearts and any Valentine's Clothing in a Laboratory or E-Z Cook Oven to infuse the clothing with golden magic!
+1460|Better than a Halo, these will actually let you double jump! Plus they're shiny!
+1462|If you find yourself lost in a world without any Toilet Seeds, you'll be glad you have this. Plus it's shiny!
+1464|Once used by Cupid himself, this bow shoots golden hearts! You can yank other players toward you with it. Plus it's shiny!
+1466|Sparkles with the undying light of eternal love. Plus it's shiny!
+1468|Emeralds are May's birthstone. This particular one is lab-created, which you'd think is less classy, but they're much prettier.
+1470|It's a red rock on a metal string. But I guess people like that!
+1472|This is a quick and handy way to cook food. Or do SCIENCE!
+1474|Eating these makes you smarter, so you can get more eggs-perience! Food Buff: 25% chance of double XP from all actions.
+1476|There's ducks on these pants!!!
+1478|There's ducks on this shirt!!!
+1480|It's curtains for these windows! Lacy, gently wafting curtains.
+1482|Tell time in Growtopia! This clock displays the current Growtopia Time for you.
+1484|So sharp it can slice atoms, this scythe is part shadow and all malice. The person to wield it must have been very, very evil.
+1486|You can earn these from Crazy Jim and Sales-Man - try dialing 12345 or 53785 on your Telephone for details! Spend them in the store on special items! If you have 100 Growtokens, you can tap them in your inventory to combine them into a Mega Growtoken!
+1488|Drink this fizzy potion to gain 10,000 XP instantly! Only works on yourself, no pouring it down other peoples' throats.
+1490|Punch this to eradicate all light from the universe. This sensitive technology will not function while damaged.
+1492|I have no idea what this thing does. It's something electronic? Maybe?
+1494|I have no idea what this thing does. It's something electronic? Maybe?
+1496|Just like they predicted, we finally have hoverboards in 2014! Well, virtual ones.
+1498|Yuck, purple stuff?! I'd rather drink imitation orange beverage.
+1500|On second thought, orange stuff seems kinda gross too. But you can freeze it into a lovely block.
+1502|This scarf is made of fuzzy aquamarine yarn with little sparklies in it. It's tres chic.
+1504|If you're a grizzled old prospector, this is surely the hat for you. Also useful for hard-boiled reporters who always get their story.
+1506|These elaborate scarves may only be worn by medical professionals (or anyone else with the title "Doctor").
+1508|Players that touch this get a Blarney Pebble.
+1510|The legend goes that if you gather up ten of these pebbles, you can charm a leprechaun to be your friend!
+1512|He's hidden a pot of gold somewhere... but you'll never find it!
+1514|Twisty.
+1516|These stylish glasses can be custom matched to any prescription.
+1518|Protect yourself from the crushing pressures of the great deep in this steel helmet. Of course, if you wear a normal wetsuit, you could end up sucked up into the helmet and crushed to death. So, you know, watch for that.
+1520|They say a shark can never stop swimming, but this particular shark can never stop swimming in place.
+1522|Beware of the painful sting of this sea creature! Also beware of the folk remedies for fixing it...
+1524|Lay off the donuts, because these things are skin-tight!
+1526|Lay off the donuts, because this thing is skin-tight!
+1528|I guess a ship somewhere is flying free, never to settle down in one place again.
+1530|Store your treasures inside by dropping them! When it's closed, the items are hidden. Punch to open it.
+1532|Use this astounding device to create an entirely new undersea world. Water included!
+1534|He just won't stay in his bowl because he LIKES YOU. This is one fish you'll never forget to feed!
+1536|This sand is all mucked up with gross deep ocean stuff.
+1538|It's like a rock, but deeper.
+1540|This friendly pet owl will fall asleep on your head if you don't keep him entertained! Dedicated to the students of the Mid-Pacific Institute.
+1542|Why, it's a dead fish. And you're holding it. Oooookayyyy.
+1544|Bowties are cool.
+1546|This is NOT a helmet, don't call it a helmet! But if you want to use it as a helmet, go ahead. It's hair though.
+1548|This fashionable accessory matches ANY outfit with style.
+1550|With a pair of wings, you can double-jump! With these wings, you can also bubble.
+1552|bunny bunny bunny bunny bunny bunny
+1554|A daisier shade of pastel.
+1556|A daisier shade of pastel.
+1558|A daisier shade of pastel.
+1560|A daisier shade of pastel.
+1562|A daisier shade of pastel.
+1564|A daisier shade of pastel.
+1566|A daisier shade of pastel.
+1568|Not only is this hat festive and suitable for formal occasions, but wearing it when you break an Ultra Pinata will reward you with a personal gift from The Great Burro!
+1570|When you /dance with this, you can perform for your friends!
+1572|The sweetest of blocks - crispy, chewy, cinnamony, delicious.
+1574|Polly want a double jump?
+1576|This ferocious beast spews deadly PARTY at your enemies.
+1578|A dangerously happenin' plant! Do not touch.
+1580|Mmmm, rolled up food. Who cares what's inside? There's a TORTILLA!
+1582|There's nothing quite like cruising the Vegas strip in a pink Cadillac!
+1584|Put this on top of a bunch of items you want to give away. Once placed, anybody can break it and get the items! The mystery is that certain items will transform into something more festive when it explodes...
+1586|So fuzzy! This is not to be eaten.
+1588|The loud clacking sound this can produce is useful for syncing up audio with video. We've silenced this particular one for the sake of the other players.
+1590|It's like Growtopia is COMING RIGHT AT YOU!
+1592|Nobody understands your genius.
+1594|Raise it up and start the show! Note: You can't raise it up.
+1596|The audience is listening. And possibly being deafened.
+1598|Put your name up on the lights! Letters not included, but hey, there's lights.
+1600|Sit down and tell everybody what to do.
+1602|Mmm, minty! With a hint of julep. Go horsey go!!
+1604|Down in front!!
+1606|Today's movie is entitled "The Polar Bear In A Snowstorm What Found A Piece Of Paper". It's an art film.
+1608|Film your own youtube videos! By using some sort of screen capture program, that is. This completely fake camera isn't going to help at all.
+1610|People inside this should not throw stones, and they will be tinted red.
+1612|People inside this should not throw stones, and they will be tinted blue.
+1614|Congratulations! Your film has been selected as the best picture of the week! Or you just bought this trophy from someone else like a common peasant.
+1616|If a player stands on this, they have first priority on joining a Game. Use your wrench to set which team this platform will assign them to!
+1618|Use your wrench to set which team this block belongs to! During a Game, the block can be smashed according to the Game rules, and it will rebuild after the game ends.
+1620|This Game Block has been smashed.  It will rebuild when the Game is over.
+1622|Use your wrench to set which team this flag belongs to! During a Game, players can steal enemy flags and deliver them to their own Game Goals.
+1624|This flag has been taken. It will return when the Game is over.
+1626|A flag being carried by a player.
+1628|DER IM A SUPERSTAR!
+1630|DO NOT TOUCH!
+1632|These special slow-roasted beans are roasted so slowly that you can only get a cup of coffee once a day!
+1634|This'll put some pep in your step! And some verve in your nerve! But not that much pizzazz in your jazz.
+1636|This unicorn is going through an awkward stage right now, but it's happy to be your friend. It'll even give you a present about once a week!
+1638|This pretty much rules out the possibility of hats, but it's so glowy!
+1640|This is the kind of unicorn your parents warned you about.
+1642|These things are just creepy. I don't get the appeal.
+1644|A gift from your friendly neighborhood unicorn!
+1646|This block is happy, and prominently features a unicorn.
+1648|This magical garland from the mystic land of Unicornopianialandburg joins your soul with that of a unicorn. Great for you, but for the unicorn it's pretty much slavery. Not cool, dude.
+1650|Oh, is that your natural color?
+1652|It takes a liberal dose of Aqua Net to make it look like this.
+1654|Thankfully, these Evil Bricks are further away than the usual kind.
+1656|Use your wrench to set which team this block belongs to! During a Game, players of that team will respawn here.
+1658|Use your wrench to set which team this block belongs to! During a Game, you may want to bring Flags here, or just reach here yourself, depending on the rules.
+1660|This machine generates games for people to play! Use your wrench on it to set up the game rules and start the game.
+1662|By carefully drinking small amounts of Death Spikes, you can build up a tolerance! Well, what you can actually do is be immune to Lava and Death Spikes for 5 seconds.
+1664|It's summertime, why do your cooking indoors? Also, you can mix chemicals in here. I'm sure that's perfectly safe.
+1666|Blow it up and take a swim!
+1668|Not a strong swimmer? Strap these on so at least your arms will stay above water as you drown.
+1670|Fly this colorful kite to celebrate summertime!
+1672|Somewhere over the rainbow is a Growtopian, flapping away. These let you double jump. Sponsored by Oricho and Oriche.
+1674|Is it hot in here, or is it just you? These wings let you double jump! There are only 500 in existence! Don't throw them away!
+1676|Squirt your friends with this usually harmless weapon! Or load it with hydrochloric acid and use it to dissolve metal, it works equally well. Longer range than normal punches, but less damage.
+1678|Enjoy it while you can, before the tide comes in.
+1680|This Omega-class firework is actually illegal in all countries. All of them. LAUNCH IT ANYWAY!!! Like cereal, it comes with a special prize inside. Note: it will use up 200 Fireworks from your inventory to ignite the Saturn V thruster it uses.
+1682|You can set this door up like a Choose Your Own Adventure story! Type up to 5 lines of story, and then add up to 5 buttons for players to choose from, with Door IDs that they lead to.
+1684|Use these sort of like Doors - They have IDs, so Doors can lead to them, though you can't travel from them. Use your wrench to set their ID.
+1686|Dr. Koop, I presume?
+1688|The comfortable fit you need to run away from giant rolling boulders.
+1690|Does these pants make my butt look fat?
+1692|Wot wot too right tally ho jolly good ermf ermf
+1694|Place this in your world to be used in your Gateways To Adventure! Players can pick it up by punching it. They lose it if they leave your world.
+1696|Place this in your world to be used in your Gateways To Adventure! Players can pick it up by punching it. They lose it if they leave your world.
+1698|Place this in your world to be used in your Gateways To Adventure! Players can pick it up by punching it. They lose it if they leave your world.
+1700|Place this in your world to be used in your Gateways To Adventure! Players can pick it up by punching it. They lose it if they leave your world.
+1702|Place this in your world to be used in your Gateways To Adventure! Players can pick it up by punching it. They lose it if they leave your world.
+1704|This sensible hairstyle minimizes the number of cobwebs that stick to you when exploring ancient tombs. The glasses also help you avoid them in the first place.
+1706|This species features the deadliest venom of any snake in the world, capable of instantly killing a Growtopian. This is counterbalanced by the fact that it is too lazy to pursue prey at all, simply waiting for people to walk up and touch it.
+1708|This is not a whole lot different from a garden shovel, but holding it makes you feel adventurous. It also lets you dig faster than you can by punching dirt. I still don't get why punching dirt works at all.
+1710|You can't punch when holding this, you're too busy ROCKING! Punch anywhere to play music. If you punch to your left or right, you can bend the note higher or lower. Punch in your own column to play the same notes that Sheet Music: Piano Note plays.
+1712|You can't punch when holding this, you're too busy ROCKING! Punch anywhere to play music. If you punch to your left or right, you can bend the note higher or lower. Punch in your own column to play the same notes that Sheet Music: Bass Note plays.
+1714|You can't punch when holding this, you're too busy ROCKING! Punch anywhere to play drums. If you punch to your left or right, you can play different drums. Punch in your own column to play the same drums that Sheet Music: Drums plays.
+1716|Keep that haircut regulation, soldier!
+1718|You came down from a distant planet, to conquer the Earth with the power of ROCK.
+1720|This shirt isn't ruined, it's COOL.
+1722|These are the easiest pants to do leaping splits in, if that happens to be important to you. I mean, you might as well jump. Go ahead and jump.
+1724|You're a rock star. Smack this to pound out some sick beats.
+1726|It's like your wallpaper is on fire, in the dark. WHOOOOOOOOOoooooo!
+1728|Use these to build your stage for the ultimate rock show.
+1730|Your world doesn't have enough voltage to actually power speakers of this size, but they sure LOOK loud!
+1732|When you rock, you sweat. Soak it up!
+1734|Akiko's extra special hat.
+1736|This helmet was forged by the awesome art god Hamumu. Sponsored by Knightmare.
+1738|Though less flexible than your average cape, this is a whole lot sparklier. Allows you to double jump off of an imaginary Crystal Block. Sponsored by Edvoid20, HemeTems, and Aboge.
+1740|Just like they predicted, we finally have hoverboards in 2014! Well, virtual ones. Sponsored by Miwsky, Chudy, and Dawid.
+1742|Berf! This little puppy is modeled after Hamumu's dog Mia, and can also be found in the fabulous smash hit Flash game Mia's Happy Day! Go play it!
+1744|It's a Brown Block squashed flat at last!
+1746|This backpack contains volatile fuels you can use to power a flamethrower!
+1748|The deadliest weapon in Growtopia! The downside is that you need to wear a Fuel Pack to use it, and it uses up 1 Fuel Pack for every single punch. KILL IT WITH FIRE!
+1750|This machine will send your entire world hurtling through space at warp speed. This sensitive technology will not function while damaged.
+1752|Lets people communicate by leaving messages to each other.
+1754|This tasteful TV hangs on your wall like a picture. A picture that moves and sings!
+1756|Be sure to point out to any protestors that this is faux tigerskin. You don't want to end up with Red Blocks instead!
+1758|Just like they predicted, we finally have hoverboards in 2014! Well, virtual ones. This one spits fire. Sponsored by Coinman, iOliver, and Legomanz.
+1760|For the less technologically-inclined, this mask relies on black magic to raise an evil spirit.
+1762|Use the power of carbonation to leap tall buildings in a single bound, and then drift gently to Earth. Comes with a lifetime supply of soda, connected via wormhole for continuous refueling.
+1764|Could there be more than one cult in Growtopia? Sponsored by Moderate.
+1766|These extra-strong seagulls can carry the full weight of a Growtopian!  Hop on!
+1768|Oh, grow up.
+1770|If you die, you'll respawn at the last Checkpoint you touched!
+1772|This isn't even wrapped, it probably has all kinds of germs on it. Are you really gonna chew it?
+1774|These are surprisingly bouncy. Hold Jump as you land for maximum bounce.
+1776|This part of the diving board is not bouncy at all. Go jump off the unsupported end!
+1778|Spray a tree to grow it 24 hours' worth!
+1780|This legendary battle armor was the turning point in the war of Growtopia Valley.
+1782|This blade calls forth the Ancient Dragon of Unexaggerated Legends and binds it to your command. It's a biggun'.
+1784|Turns out you had to do a lot more than ring a bell to get these suckers.
+1786|Wait for it...
+1788|Wait for it...
+1790|This wizard is legendary! Punch or wrench him to obtain Legendary Quests.
+1792|Players that touch this get a Legendary Orb.
+1794|This orb is legendary and filled with a great power. However, you don't have an adapter for it, so the power isn't any use to you. Perhaps a wizard could use it?
+1796|Locks an entire world. And looks good doing it. Tap on it in your inventory to break it down into 100 World Locks, if you have room in your inventory.
+1798|MOOOOooooooo.
+1800|It's faster than exercise!
+1802|This brick is just made out of puzzlingly shaped pieces, it's not much of a puzzle itself. Just a brick.
+1804|It's 1.21 gigawatts in the palm of your hand!  Sponsored by Dodoman11, Hercule, and the RTSoft Forumers.
+1806|You're lucky, you get to be the head!
+1808|This really adds a lot of body to your hair.
+1810|Looks like you got stuck with the tail end. Again.
+1812|Wear these shorts when you are wrestling! If you play in a Game Pack game, your shorts will change color to match your team.
+1814|Wear these shorts when you are wrestling! If you play in a Game Pack game, your shorts will change color to match your team.
+1816|Wear these shorts when you are wrestling! If you play in a Game Pack game, your shorts will change color to match your team.
+1818|Wear these shorts when you are wrestling! If you play in a Game Pack game, your shorts will change color to match your team.
+1820|Wear these shorts when you are wrestling! If you play in a Game Pack game, your shorts will change color to match your team.
+1822|These sporty shoes are coated with a layer of pure sparkling gold. Sponsored by Kubeti and Rooted.
+1824|A leaf falls on a still pond. These wings let you double jump, and contain an endless supply of dried leaves for some reason!
+1826|I am become death, the destroyer of foliage. Toss this in the air to celebrate the fall!
+1828|This pastry is filled with a sweet bean paste, in 4 flavors combined with a perfect balance. A random jumble of four symbols is imprinted on the top in ancient Growtopian script. Mix this with other Mooncakes in a Laboratory or E-Z Cook Oven to create special Harvest Festival items.
+1830|This advanced harvesting machine will chop down trees as it runs them over. If you wear a Fuel Pack, it has a 10 chance of harvesting double fruit from each tree below rarity 100! This burns up one Fuel Pack.
+1832|If you die, you'll respawn at the last Checkpoint you touched!
+1834|With this block, you too can yell at the moon like Buzz Aldrin.
+1836|I'm not sure why you're bothering to mine stuff when you already have an entire pickaxe made of diamonds, but at least you know this is harder than whatever you want to mine! Sponsored by Kloe, PartyFrog, and xShaDo.
+1838|You got style.
+1840|This is the hair for people with flawed foreheads.
+1842|This is NOT a helmet, don't call it a helmet! But if you want to use it as a helmet, go ahead. It's hair though.
+1844|Cover your forehead and shoulders in one fell swoop!
+1846|It's messy and it's red, what more could you want from hair?
+1848|These are some fierce designer sunglasses!
+1850|You're like Ms. Pac-Man without the eating disorder!
+1852|It looks like a real butterfly! A real robot butterfly.
+1854|Psst, I think there's a bee in your hair...
+1856|Sometimes simpler is better!
+1858|It looks like a whole galaxy of suns.
+1860|This skirt is long, and thus classy.
+1862|You are now the referee of fashion.
+1864|The ultimate in stealth technology. Sponsored by JakeShore, ADMex1, and bankai.
+1866|Squirt some of this on a block, and neighboring blocks will attach to it, visually. For example, if you glue a block, and there's a Dirt Block below it, the dirt block won't have a green top, because it will think there's Dirt above it! Use glue again to remove it.
+1868|Congratulations on completing all the holiday achievements!  Have a dragon!
+1870|This is also what happens when you give a flower a taste for magic bacon!
+1872|These mirrors make you look entirely wacky!
+1874|This ring replaces your punch with a devastating blast of energy that can shatter nearby blocks!
+1876|This ring floats you on a cloud. Hold the jump button while falling to glide safely down to earth.
+1878|Throw up some of these and you'll feel like you've run away to the circus!
+1880|Step right up and see the amazing square-headed person!
+1882|Doot doot doo doo doodle doot doot doo doo...
+1884|It's just flappin' in the breeze.
+1886|It's just flappin' in the breeze.
+1888|It's just flappin' in the breeze.
+1890|It's just flappin' in the breeze.
+1892|This is a cruel way to get somebody to do what you want. Keep it in video games only!
+1894|This lion does tricks! You can stand on its head, you can stick your head near its mouth, it can stand near hoops, it can sit, it can even play dead (it pretends that rigor mortis has set in, so it does so sitting up).
+1896|This block never forgets anything, but since it has no method of communicating, that feature is completely useless.
+1898|You can spend these at any Carnival game in the world CARNIVAL, if the Carnival happens to be in town.
+1900|This is the master of all rings! Punch or wrench him to obtain Ring Quests.
+1902|Nothing to see here.
+1904|This ring is your precious, and if you had pocketses you'd put the ring in them for safekeeping.
+1906|Write stuff on it to tell your friends! Use your Wrench on it to change the message.
+1908|Used in the carnival.  When turned on, punch it for points.
+1910|This is like a regular door, except it won't work if the destination is occupied by another player!
+1912|Works the same as a path marker.
+1914|A nice way to get up to a highwire to perform an aerial show!
+1916|What could be on the other side?
+1918|This card is not so handy for playing games, but it's great for testing psychics.
+1920|This card is not so handy for playing games, but it's great for testing psychics.
+1922|This card is not so handy for playing games, but it's great for testing psychics.
+1924|This card is not so handy for playing games, but it's great for testing psychics.
+1926|Toggle this on to make it passable. Not usable by players due to confusion madness.
+1928|This top hat is a bit rumpled, but it still has a certain rustic panache.
+1930|The classic burgundy suit - the essence of style.
+1932|None of these rings have any magical powers, but there sure are a lot of them!
+1934|These orbs contain a dark elixir said to be the blood of Growganoth... but it's probably just grape juice. Sponsored by Cukuzz and PikaPi.
+1936|It's shocking what they're doing with wings these days. Sponsored by Cukuzz, PikaPi and BigCream.
+1938|These things are insanely heavy, I have no idea how you can even walk, let alone jump, with them on. Sponsored by xBone, paulius, and TheMrSkate.
+1940|Shoes made of diamond? I guess you save money on ice skates. Sponsored by CrimsonSwag, Vitality, and Mitcho25.
+1942|Get in the carnival mood with some circus music! Yes, circuses and carnivals are different things. But not really? I did some research on it, I'm still not sure.
+1944|Well, they're easy to clean! Sponsored by Tiamwatt, Ardims, and Shesherbel.
+1946|Moo. This frosty baby cow will follow you everywhere you go!  Mainly because it's tied to your wrist. Sponsored by Orfeo and Destra.
+1948|This has over 10,000,000x magnification, allowing you to clearly see the virus that is totally shocking! Sponsored by Jynttari, xSpeedo, and PEIJJE.
+1950|You look tough when you're riding a Growley Dennison motorcycle!
+1952|Blue Dwarf needs owl, badly.
+1954|Sparkle like the heavens, twinkle-toes!
+1956|Not the same as a Curse Wand. This one sucks the souls out of blocks! Sponsored by LOL, dongju, and MUNGSUNG.
+1958|Jenuine's a bit spacey.
+1960|This backpack contains ghostly ectoplasm you can use to power a flamethrower in a spooky way!
+1962|Something evil lurks inside this chemical. You get the chills just looking at it.
+1964|This is evil, like the fru-its of the dev-il! It's recommended that you don't eat it, but it's not like you're going to listen to me.
+1966|This demonic harvesting machine will mangle trees as it runs them over. If you wear a Fuel Pack, it has a 10% chance of harvesting double fruit from each tree below rarity 100! This burns up one Fuel Pack.
+1968|Death has come to retrieve his scarf! He seeks revenge on you for wearing it, waiting behind you for the perfect chance to strike. Sponsored by EasyE, Meeps, and Stealthy.
+1970|You don't jump higher than with Devil Wings, but man, you do look pretty scary. Sponsored by Cukuzz, Heme, and Seabreaze.
+1972|This mask makes you look really disturbed. Sponsored by Edvoid20, TETRAFANG, and Passed.
+1974|This has over 10,000,000x magnification, allowing you to clearly see a lethal doom virus! Sponsored by Pumuzutup.
+1976|This skull is so small! It would probably take 10 of these to do anything useful.
+1978|This horse is really skinny, but has such a shiny coat! Sponsored by Avenie.
+1980|They slice, they dice, they chop, they julienne! Just don't pick your nose with them on.
+1982|Pro-tip: build a haunted house from Haunted House blocks, then use Block Glue to add this into it, so you don't have to have windows everywhere!
+1984|Every so often, a ghost will come spooking out of this scary place.
+1986|This ring is imbued with astrological power.  It makes you a twin!
+1988|Toss this vile-smelling liquid on an impure soul, and the darkest deeds of their past will return to haunt them for a while!
+1990|Nature makes things purple to tell you to STAY AWAY! Also if a spider is as big as you, that's another clue.
+1992|This is the perfect material for hanging spiders from. It has no effect on Growtopians.
+1994|Tired of Halloween? Celebrate Dia de los Muertos instead!
+1996|This ring makes you feel a whole lot smarter. So smart, in fact, that you can tell that it gives you a 10% chance of getting double XP!
+1998|Did you forget to feed your dragon again?
+2000|I bet if you had twenty of these, you could build a whole new dragon out of them! Still, it's kind of icky.
+2002|This apple is a bit more crunchy than usual, but it's fortified with lots of minerals!
+2004|Look cool as you wear this jacket over whatever shirt makes you feel tough.
+2006|Rappers get cold very easily, so this style of jacket is available for them.
+2008|The evilest kind of spikes available. Do not touch!
+2010|It's like living inside a computer!
+2012|Dark blocks are available in a stunning array of colors!
+2014|Dark blocks are available in a stunning array of colors!
+2016|Dark blocks are available in a stunning array of colors!
+2018|Dark blocks are available in a stunning array of colors!
+2020|Dark blocks are available in a stunning array of colors!
+2022|Dark blocks are available in a stunning array of colors!
+2024|Dark blocks are available in a stunning array of colors!
+2026|Dark blocks are available in a stunning array of colors!
+2028|Dark blocks are available in a stunning array of colors!
+2030|You look a little shady in this thing...
+2032|Mew! This is Puddy, Fredi's kitten! Sponsored by Fredi, xZonney, and Ludo.
+2034|This is the sparkly dust from a passing comet. It seems to whirl around like a tiny galaxy. Perhaps if you collected enough of it, it would merge into a solid mass!
+2036|This is the exact opposite of sparkly dust from a passing comet. It seems to whirl around backwards like a tiny galaxy. Perhaps if you collected enough of it, it would merge into an astonishingly valuable solid mass!
+2038|This is a strange chemical from outer space. It glows with cosmic energy.
+2040|These extremely classy pants are emblazoned with the image of comets streaking by.
+2042|Express your love for celestial phenomena with this informative T-shirt!
+2044|The Night of the Comet never ends for you - there's always a comet soaring above your head! Or boinging anyway.
+2046|Fill your world with the cosmic rays of a comet all month long with this weather machine! Note: this is only a situation of a comet, it does not actually generate any cosmic rays. Good thing too, since that would fry your organs. This sensitive technology will not function when damaged.
+2048|You're probably never going to have kids after this, but come on, it's a COMET! That you can ride!
+2050|Powered by cosmic energy, this jetpack will notably increase your jump height!
+2052|The only glasses certified safe for staring at comets!
+2054|What did the cosmic rays do to your head?!
+2056|This block is made from elements that don't even occur in our galaxy.
+2058|This block is made from elements that don't even occur in our galaxy.
+2060|Micrometeors have shredded the bottom end of this skirt, but that's the latest style on Zarkon 9!
+2062|Captain a starship in style!
+2064|You're probably never going to have kids after this, but come on, it's a METEOR! That you can ride!
+2066|This unicorn looks even more "like, whoa man, I'm dreaming a dream of what dreaming is like, and my hands are like, not my hands, man" under a blacklight.
+2068|You can command your spaceship from here! If you have a spaceship.
+2070|Transfer more power to the warp core!! This is a background block, by the way.
+2072|This alien crystal has the power to grant or remove superpowers from all the Growtopians in your world! Use your wrench to set what powers it affects. Only one is allowed per world.
+2074|Fight crime in this mighty leotard!
+2076|Fight crime in this mighty leotard!
+2078|Fight crime in this mighty leotard!
+2080|Fight crime in this mighty leotard!
+2082|Fight crime in this mighty leotard!
+2084|Fight crime in this mighty leotard!
+2086|Flex your muscles in this mighty leotard!
+2088|Flex your muscles in this mighty leotard!
+2090|Flex your muscles in this mighty leotard!
+2092|Flex your muscles in this mighty leotard!
+2094|Flex your muscles in this mighty leotard!
+2096|Flex your muscles in this mighty leotard!
+2098|To be a superhero, you really need to wear tights of some sort.
+2100|To be a superhero, you really need to wear tights of some sort.
+2102|To be a superhero, you really need to wear tights of some sort.
+2104|To be a superhero, you really need to wear tights of some sort.
+2106|To be a superhero, you really need to wear tights of some sort.
+2108|To be a superhero, you really need to wear tights of some sort.
+2110|To be a superhero, you really need to wear tights of some sort.
+2112|To be a superhero, you really need to wear tights of some sort.
+2114|To be a superhero, you really need to wear tights of some sort.
+2116|To be a superhero, you really need to wear tights of some sort.
+2118|To be a superhero, you really need to wear tights of some sort.
+2120|To be a superhero, you really need to wear tights of some sort.
+2122|These boots add nothing to your crimefighting skills except to protect you from stray Legos.
+2124|These boots add nothing to your crimefighting skills except to protect you from stray Legos.
+2126|These boots add nothing to your crimefighting skills except to protect you from stray Legos.
+2128|These boots add nothing to your crimefighting skills except to protect you from stray Legos.
+2130|These boots add nothing to your crimefighting skills except to protect you from stray Legos.
+2132|These boots add nothing to your crimefighting skills except to protect you from stray Legos.
+2134|Protect your secret identity!
+2136|Protect your secret identity!
+2138|Protect your secret identity!
+2140|Protect your secret identity!
+2142|Protect your secret identity!
+2144|Protect your secret identity!
+2146|Protect your secret identity!
+2148|Protect your secret identity!
+2150|Protect your secret identity!
+2152|Protect your secret identity!
+2154|Protect your secret identity!
+2156|Protect your secret identity!
+2158|You're no Heroman, but still, it's pretty cool.
+2160|You're no Heroman, but still, it's pretty cool.
+2162|You're no Heroman, but still, it's pretty cool.
+2164|You're no Heroman, but still, it's pretty cool.
+2166|You're no Heroman, but still, it's pretty cool.
+2168|You're no Heroman, but still, it's pretty cool.
+2170|Flex your muscles in this mighty leotard!
+2172|Flex your muscles in this mighty leotard!
+2174|Flex your muscles in this mighty leotard!
+2176|Flex your muscles in this mighty leotard!
+2178|Flex your muscles in this mighty leotard!
+2180|Flex your muscles in this mighty leotard!
+2182|Protect your secret identity, by hiding the inch of skin around your eyes.  Who could possibly recognize you?
+2184|Protect your secret identity, by hiding the inch of skin around your eyes.  Who could possibly recognize you?
+2186|Protect your secret identity, by hiding the inch of skin around your eyes.  Who could possibly recognize you?
+2188|Protect your secret identity, by hiding the inch of skin around your eyes.  Who could possibly recognize you?
+2190|Protect your secret identity, by hiding the inch of skin around your eyes.  Who could possibly recognize you?
+2192|Protect your secret identity, by hiding the inch of skin around your eyes.  Who could possibly recognize you?
+2194|Emblazon this logo on your super costume to fight crime as... Skull Boy? The Boney Avenger? Mrs. Death? It's up to you!
+2196|Emblazon this logo on your super costume to fight crime as... Loverboy? Captain Cuddles? Dr. Cupid? It's up to you!
+2198|Emblazon this logo on your super costume to fight crime as... Shock-o? The Lightning Kid? Electrina? It's up to you!
+2200|Emblazon this logo on your super costume to fight crime as... Oculus? Lookey-Loo? The Illuminati? It's up to you!
+2202|Emblazon this logo on your super costume to fight crime as... Well, okay, I don't even know what this logo is. So you can be anybody you want with this one! It's up to you!
+2204|With this handy device, you can detect radiation. As you get closer to the source, the device will ping red, then yellow, then green for the closest. Stand still where you think the source is and you just might find it!
+2206|This is a dangerous chemical that emits radiation. You probably shouldn't keep it in your pants pocket.
+2208|Hop inside with a punch to swap your entire outfit with the outfit stored inside. Presto-Change-o! You can use your wrench to empty it out as well.
+2210|Nothing says tough like not bothering with basic hygiene.
+2212|Another of the Dragons of Legend! Please be aware the legends may have been a bit exaggerated. Sponsored by Dupie, v0ren, and Contesso.
+2214|You're probably gonna wish you had spent extra for the seat heater option with this particular ride.  But it's faster than walking. Sponsored by @Aimster.
+2216|Stay warm this winter by setting your pants on fire! You liar. Sponsored by Edvoid20, NeoRay, and Heme.
+2218|Gloves are highly recommended while holding this mystical artifact. Sponsored by iiStyloMilo, Bambam46, and MartinMan007's Subscribers.
+2220|Why don't you just go play Tanked instead? Sponsored by Liammagoo, Nelsonmandel, and Krampus.
+2222|This is a perfectly ordinary animal, not anything related to flying, magic, or gifts. There are, however, only 1,500 of this endangered animal in existence!
+2224|This guy has been sorely depressed ever since he got banned from gaming. Take him out for a flight to cheer him up!
+2226|As ice thaws, it drips down and refreezes into these razor sharp blades of agony.
+2228|It's so cold in Siberia that this tiger has frozen solid.
+2230|VROOOOM!
+2232|This is one sweet way to hold yourself aloft.
+2234|What, you think yetis don't have ram horns? Prove it.
+2236|Nothing speaks of peace, love, and joy more than a bomb. Throw it at your friends!
+2238|This is the most festive way to get water around your house.
+2240|It's really safest to use killed viruses in vaccines, but come on, who could kill this cuddly guy?
+2242|This crystal is not yet in balance. Perhaps if you place it in the bosom of its Earth Mother, and then join it with 4 other crystals, it can achieve harmony.
+2244|This crystal is not yet in balance. Perhaps if you place it in the bosom of its Earth Mother, and then join it with 4 other crystals, it can achieve harmony.
+2246|This crystal is not yet in balance. Perhaps if you place it in the bosom of its Earth Mother, and then join it with 4 other crystals, it can achieve harmony.
+2248|This exotic crystal is not yet in balance. Perhaps if you place it in the bosom of its Earth Mother, and then join it with 4 other crystals, it can achieve harmony.
+2250|This mystical crystal is not yet in balance. Perhaps if you place it in the bosom of its Earth Mother, and then join it with 4 other crystals, it can achieve harmony.
+2252|Tell time in Growtopia! This clock displays the current Growtopia Time for you.
+2254|These amazing lightweight hollow crystals actually allow you to jump in mid-air!
+2256|These amazing lightweight hollow crystals actually allow you to jump in mid-air!
+2258|These amazing lightweight hollow crystals actually allow you to jump in mid-air!
+2260|These amazing lightweight hollow crystals actually allow you to jump in mid-air!
+2262|These amazing lightweight hollow crystals actually allow you to jump in mid-air!
+2264|These amazing lightweight hollow crystals actually allow you to jump in mid-air!
+2266|Careful of the pointy bits. This thing is tough to hold, but look how cool it is when you throw it!
+2268|You could run your own kingdom with a mask like this!
+2270|Ooh pretty.
+2272|Everyone knows crystals don't grow on trees, so this is just a lovely decorative element.
+2274|These magical doors connect all the worlds in Growtopia. Place one and then use your Wrench on it to set the destination.
+2276|These crystals have fragmented into razor sharp points. Do not touch!
+2278|This Mini Growtopian looks strangely familiar...
+2280|You can't have a block party without a Party Block!
+2282|Rock some tunes to really kick the party into gear!
+2284|Bring the party with you everywhere you go! This sensitive technology will not function while damaged.
+2286|This Geiger Counter is out of battery power. It will charge up from the static electricity you generate all the time, so just hold it in your hand until it's charged.
+2288|Ooh, it's gonna take a LOT of this to get the party started...
+2290|3 notes? Pop songs just keep getting shorter! Maybe if we collect up a pile of these, we can get this party started!
+2292|This is a Fire Superpower card for use in fighting crime. You can also place it as a block! Card effect: Inflict 1 damage.
+2294|This is a Fire Superpower card for use in fighting crime. You can also place it as a block! Card effect: Inflict 1 damage, but if opponent uses a Muscle power, it inflicts 2 damage.
+2296|This is a Fire Superpower card for use in fighting crime. You can also place it as a block! Card effect: Ignite yourself, healing 1 damage, and your opponent takes 1 damage if they hit you in the next 3 turns.
+2298|This is a Fire Superpower card for use in fighting crime. You can also place it as a block! Card effect: Inflicts 1 damage and melts the card your opponent plays, removing it from play permanently. If you Liquify another card, the first one returns.
+2300|This is a Fire Superpower card for use in fighting crime. You can also place it as a block! Card effect: Your Fire cards are not countered by Ice on your next turn, and they do +1 damage.
+2302|Oh no!  A villainous scalliwag lurks here, perpetrating CRIME on an unsuspecting populace! Smack him in the face to set him straight with your superpowers.
+2304|This is a Rare Fire Superpower card for use in fighting crime. You can also place it as a block! Card effect: Obliterates your opponent for 3 damage.
+2306|You can just barely hear techno music deep inside the box.  Maybe you should open it and see if a party comes out?
+2308|This is an Ice Superpower card for use in fighting crime. You can also place it as a block! Card effect: Inflict 1 damage.
+2310|This is an Ice Superpower card for use in fighting crime. You can also place it as a block! Card effect: Freeze your opponent, so they can't use any cards except Fire cards next turn.
+2312|This is an Ice Superpower card for use in fighting crime. You can also place it as a block! Card effect: Protects you from the next hit you would take, including this turn. Lightning pierces it.
+2314|This is an Ice Superpower card for use in fighting crime. You can also place it as a block! Card effect: For the next 3 turns, the opponent takes 1 damage if they use Lightning. They shouldn't do that standing in water!
+2316|This is an Ice Superpower card for use in fighting crime. You can also place it as a block! Card effect: Inflict 1 damage. If the opponent uses Fire, their card isn't countered, it's reflected back at them!
+2318|This is a Rare Ice Superpower Card for use in fighting crime. You can also place it as a block! Card effect: Give the opponent a warning… on their 3rd warning… they get banned from the game.
+2320|This is a Muscle Superpower card for use in fighting crime. You can also place it as a block! Card effect: Inflict 1 damage.
+2322|This is a Muscle Superpower card for use in fighting crime. You can also place it as a block! Card effect: Inflict 1 damage, and on the next turn, you see which card your opponent will choose before you choose yours. This card takes 2 turns to recharge.
+2324|This is a Muscle Superpower card for use in fighting crime. You can also place it as a block! Card effect: Block 1 damage, this turn, and your next attack that hits will do +1 damage.
+2326|This is a Muscle Superpower card for use in fighting crime. You can also place it as a block! Card effect: If your opponent uses Lightning this turn, they take *3* damage! Sadly if they don't this has no effect at all.
+2328|This is a Muscle Superpower card for use in fighting crime. You can also place it as a block! Card effect: Recover 1 Life this turn and the next turn.
+2330|This is a Rare Muscle Superpower Card for use in fighting crime. You can also place it as a block! Card effect: Summon a zombie to gnaw on your opponent for 1 damage per turn, forever. Each point of damage you take kills a zombie instead of hurting you.
+2332|This is a Lightning Superpower card for use in fighting crime. You can also place it as a block! Card effect: Inflict 1 damage.
+2334|This is a Lightning Superpower card for use in fighting crime. You can also place it as a block! Card effect: No damage now, but for the next 2 turns, your opponent takes 1 damage each turn. If you take damage from a Muscle card, the storm ends.
+2336|This is a Lightning Superpower card for use in fighting crime. You can also place it as a block! Card effect: Charge up your Lightning cards to do +1 damage permanently. Getting hit by Muscle cards removes this effect.
+2338|This is a Lightning Superpower card for use in fighting crime. You can also place it as a block! Card effect: Does 2 damage, but takes 2 turns to recharge.
+2340|This is a Lightning Superpower card for use in fighting crime. You can also place it as a block! Card effect: If an attack would kill you in the next 3 turns, you recover with 1 Life.
+2342|This is a Rare Lightning Superpower card for use in fighting crime. You can also place it as a block! Card effect: Prevent your opponent from using the element they used this turn for 3 turns.
+2344|Just before knocking him unconscious, you snapped a lovely photo of The Firebug for posterity. Put it up on the wall, show off your achievement!
+2346|Just before knocking him unconscious, you snapped a lovely photo of Jimmy Snow for posterity. Put it up on the wall, show off your achievement!
+2348|Just before knocking her unconscious, you snapped a lovely photo of Big Bertha for posterity. Put it up on the wall, show off your achievement!
+2350|Just before knocking it unconscious(?), you snapped a lovely photo of The Shockinator for posterity. Put it up on the wall, show off your achievement!
+2352|Just before knocking him unconscious, you snapped a lovely photo of Generic Thug #17 for posterity. Put it up on the wall, show off your achievement!
+2354|Just before knocking her unconscious, you snapped a lovely photo of Kat 5 for posterity. Put it up on the wall, show off your achievement!
+2356|Just before knocking her unconscious, you snapped a lovely photo of Professor Pummel for posterity. Put it up on the wall, show off your achievement!
+2358|Just before knocking him unconscious, you snapped a lovely photo of Dragon Hand for posterity. Put it up on the wall, show off your achievement!
+2360|Just before knocking him unconscious, you snapped a lovely photo of Dr. Destructo for posterity. Put it up on the wall, show off your achievement!
+2362|Just before knocking her unconscious, you snapped a lovely photo of Ms. Terry for posterity. Put it up on the wall, show off your achievement!
+2364|Just before knocking him unconscious, you snapped a lovely photo of Z. Everett Koop for posterity. Put it up on the wall, show off your achievement!
+2366|Just before knocking him unconscious, you snapped a lovely photo of Almighty Seth for posterity. Put it up on the wall, show off your achievement!
+2368|Just before knocking him unconscious, you snapped a lovely photo of Devil Ham for posterity. Put it up on the wall, show off your achievement!
+2370|This is the logo of the supervillain Ms. Terry. Are you sure you want to wear it?
+2372|This is the logo of the supervillain (or philanthropist) Z. Everett Koop. Are you sure you want to wear it?
+2374|This is the logo of the supervillain Devil Ham. Or it's just the logo of Hamumu Games. Are you sure you want to wear it?
+2376|This is the logo of the supervillain Almighty Seth. Or it's just the logo of Robinson Technologies. Are you sure you want to wear it?
+2378|This is the logo of the supervillain Dr. Destructo. Or at least it's his first initial. His name's Dennis. Are you sure you want to wear it?
+2380|Looks like you captured one of that villain's henchmen... Of course, you COULD let him loose somewhere to cause a little havoc! Note: Henchmen take 24 hours to complete their crime, then they disappear!
+2382|Good heavens, where'd you find such an unsavory bunch of miscreants?!  I suppose you could let them loose in your world to commit crimes. If you were EVIL.  Note: they take 24 hours to complete their crime, after which they disappear!
+2384|Vroom vroom!
+2386|This scythe contains the fury of the heavens! Sponsored by Edvoid20, Anfinity, and iKrideez.
+2388|Seriously, if this hits your chest, your heart will break. Also, it's good for smashing pumpkins.
+2390|Even as tiny as they are, these wings allow you to jump in mid-air!
+2392|Even as tiny as they are, these wings allow you to jump in mid-air!
+2394|Vroom vroom!
+2396|Write messages to your loved ones on it! Use your Wrench on it to change the message.
+2398|This guy loves locks. He'll trade you fabulous items for them!
+2400|Lucky you! You've been awarded this golden horseshoe by the Leprechaun's Guild in honor of your Blarney achievements. Of course, one horseshoe isn't much good. Why don't you get four of them together and shoe a horse? (Note: horse not actually required, just get 4 horseshoes and tap them anywhere)
+2402|The Irish Sport Horsie is traditionally used for all purposes from transportation to riding to working the land, and it is popular as a competition riding horsie. It also wears a silly hat.
+2404|Wait a minute, this is Scottish.
+2406|This is a bad habit, you should stop it.
+2408|Locks an entire world. And looks blarney good doing it. Now, this lock is no Lucky Clover, but you just might feel a little luckier in a world locked by it...
+2410|Watch out, this is a really sharp fragment of Emerald. It seems strangely magnetically attracted to other shards like it.  Maybe if you got 200 of them together, they'd fuse into something! Yeah, that's how reality works!
+2412|This is only one leaf of a clover!  Clearly, you need four of them if you want to be lucky.
+2414|Write stuff on it to tell your friends! Use your Wrench on it to change the message.
+2416|Wanna be a witch, but tired of hat-head?  This is the hairstyle for you.
+2418|I think Chudy's brain is being eaten right now.
+2420|Emblazon this logo on your super costume to fight crime as MIGHTYBOOSH, with his trademark lightning shield!
+2422|Shadowsurfer's dog is spooky.
+2424|Fight crime in this mighty Irish leotard!
+2426|Flex your muscles in this mighty Irish leotard!
+2428|To be an Irish superhero, you really need to wear tights of some sort.
+2430|To be an Irish superhero, you really need to wear tights of some sort.
+2432|These Irish boots add nothing to your crimefighting skills except to protect you from stray Legos.
+2434|Protect your secret identity! But your Irish eyes can still be smiling.
+2436|Protect your secret identity! But your Irish eyes can still be smiling.
+2438|You're no Heroman, but sure'n it's pretty cool.
+2440|Flex your muscles in this mighty Irish leotard!
+2442|Protect your secret identity, by hiding the inch of skin around your eyes.  Who could possibly recognize you?
+2444|Emblazon this logo on your super costume to fight crime as... Saint Patrick? O'Superman? Lucky Lass? It's up to you!
+2446|This is a Rare Muscle Superpower card for use in fighting crime. You can also place it as a block! Card effect: Take a chance! This card's element when played is totally random, and it will inflict from 0-4 damage!
+2448|Just before knocking him unconscious, you snapped a lovely photo of Paddy O'Malice for posterity. Put it up on the wall, show off your achievement!
+2450|This Dragon Of Legend is worth more than all the others combined... and he's pretty snotty about it.
+2452|This super-fabulous device will crush any clothing and extract its pure essence. Just tap clothing items on here and they will be crushed! You might get back seeds, gems, or who knows what?
+2454|Looks like this is all that's left after you crushed those clothes!
+2456|Looks like this is all that's left after you crushed those clothes!
+2458|Looks like this is all that's left after you crushed those clothes!
+2460|Looks like this is all that's left after you crushed those clothes!
+2462|Hang it up on the wall, pass it down to your grandkids!
+2464|You look jealous in these.
+2466|You're a certified creeper. Don't forget to smile...
+2468|You're not getting older, you're getting more distinguished.
+2470|Like a regular fedora, but in cotton candy flavor.
+2472|You look like a snake oil salesman in this getup!
+2474|These come with a handy pocketwatch in the pocket, but it's less handy because you can't read the time on a 4-pixel watch.
+2476|Need some eyedrops for those?  Sponsored by SweGamerHD, his subscribers, and Palladius.
+2478|This block is a total mystery.  Smash it and see what's inside!
+2480|This handy device will let you broadcast a message to ALL of Growtopia at once!
+2482|This is not just a leprechaun-styled hat, it's an actual secondhand hat borrowed from a leprechaun. The largest size available.
+2484|This genie is all out of wishes, so he's pretty bored at this point.  He's happy to just hang out with you. Sponsored by Onisim and Napoleonn.
+2486|Crafted from the darkest depths of Black Magic, this helmet was born! Sponsored by Devinn, Edvoid20, and anthonnoying.
+2488|Items placed behind this energy field are protected! Only players with access to lock can pick them up!
+2490|This thing is itchy. I think it's the radiation.
+2492|To celebrate the robot that landed on a comet, splice together some comet stuff to make an asteroid that YOU can land on!
+2494|bunny bunny bunny bunny bunny bunny
+2496|It's a Pastel Pink Block squashed flat!
+2498|It's a Pastel Orange Block squashed flat!
+2500|It's a Pastel Yellow Block squashed flat!
+2502|It's a Pastel Green Block squashed flat!
+2504|It's a Pastel Aqua Block squashed flat!
+2506|It's a Pastel Blue Block squashed flat!
+2508|It's a Pastel Purple Block squashed flat!
+2510|The life that has been carved out from your subconscious is the only evidence by which you will be judged.
+2512|These marshmallow treats are really pretty gross, but having one follow you around is fun!
+2514|The happiest kind of grass.
+2516|This is no way to treat an animal!
+2518|This is a Rare Ice Superpower card for use in fighting crime. You can also place it as a block! Card effect: Block all 1-damage attacks for 4 turns. If an attack does more than 1 damage, the shield shatters!
+2520|Just before knocking him unconscious, you snapped a creepy photo of Bunny Barko for posterity. Put it up on the wall, show off your achievement!
+2522|Emblazon this logo on your super costume to fight crime as... Bionic Bunny? The Hoppinator? Eastro? It's up to you!
+2524|Fight crime in this mighty pastel leotard!
+2526|Flex your muscles in this mighty pastel leotard!
+2528|To be a pastel superhero, you really need to wear tights of some sort.
+2530|To be a pastel superhero, you really need to wear tights of some sort.
+2532|These pastel boots add nothing to your crimefighting skills except to protect you from stray Legos.
+2534|Protect your secret identity!
+2536|Protect your secret identity!
+2538|You're no Heroman, but it's still pretty swell.
+2540|Flex your muscles in this mighty pastel leotard!
+2542|Protect your secret identity, by hiding the inch of skin around your eyes.  Who could possibly recognize you?
+2544|This egg has been boiled, dyed, hidden, and found. Put it on display somewhere!
+2546|This egg has been boiled, dyed, hidden, and found. Put it on display somewhere!
+2548|This egg has been boiled, dyed, hidden, and found. Put it on display somewhere!
+2550|This egg has been boiled, dyed, hidden, and found. Put it on display somewhere!
+2552|This egg has been boiled, dyed, hidden, and found. Put it on display somewhere!
+2554|This egg has been boiled, dyed, hidden, and found. Put it on display somewhere!
+2556|If the sky were to suddenly open up, there would be no law, there would be no rule. There would only be you and your memories.
+2558|With this basket, you can track down Easter Eggs hidden all around Growtopia! Once your basket is full, it somehow takes you half an hour to get the egg out of it. Clumsy. Easter Eggs can only be found during Easter Week.
+2560|You found an egg and dropped it in this basket! Now it's buried under all the fake grass. Keep digging at it, you'll re-find it eventually.
+2562|This hat always cracks me up.
+2564|The yummiest of blocks.
+2566|The bitterest of blocks.
+2568|There's always fun times at the carnival, even when your organs are being impaled on steel spikes!
+2570|Step right up! Sell popcorn and candy to rubes as you run nigh-unwinnable games!
+2572|The flame represents all of the fallen heroes that served in the Armed Forces. Sponsored by iFlySolo and Ghostego.
+2574|A lot of people bling out their cars to show off their wealth, but it just seems easier to ride around in a bucket of gold to start with, right? Sponsored by WoShiPaul, IcyFrost, and icebang.
+2576|Classic hairstyle!
+2578|Tie up those unruly red locks.
+2582|You can't go off punching, building, and growing without Mr. Binky!
+2584|Where have you been playing?! What did you do to these? I just washed them! And wait a minute, what is that following you around!?!? Sponsored by @Hamumu since nobody else had the guts.
+2586|Program messages into it to tell your friends! Use your Wrench on it to change the message.
+2588|It's not possible to be any sassier than somebody who's wearing these boots.  So put 'em on and get SASSY, girlfriend!
+2590|This block constantly shifts through the colors of the rainbow. It's mesmerizing.
+2592|This legendary blade was said to have sliced through 3 tomatoes AND a tin can during the course of a single infomercial! Nobody knows if that's really true, but it's certainly a big sword.
+2594|This hat is still festive and suitable for formal occasions, but all the luck has been sucked out of it.
+2596|Mmmm nachos.  Watch out, that cheese is slippery.
+2598|El Astro is known for the deadly Cometbuster Drop!
+2600|El Peligro is the most dangerous wrestler in all of Lucha Libre.
+2602|El Tigre is feared in the wrestling world for his Wild Slash attack!
+2604|El Verdugo has long since retired his mask, but you can take it up again and master the lethal Dynamite Axe move!
+2606|These provide the flexibility and movement you need to wrap somebody's head up in your thighs and do a backflip.
+2608|These provide the flexibility and movement you need to wrap somebody's head up in your thighs and do a backflip.
+2610|These provide the flexibility and movement you need to wrap somebody's head up in your thighs and do a backflip.
+2612|These provide the flexibility and movement you need to wrap somebody's head up in your thighs and do a backflip.
+2614|This flimsy bit of clothing provides maximum display of your insane muscles.
+2616|This flimsy bit of clothing provides maximum display of your insane muscles.
+2618|This flimsy bit of clothing provides maximum display of your insane muscles.
+2620|This flimsy bit of clothing provides maximum display of your insane muscles.
+2622|Sparkly gold boots are ideal for stomping on people you've thrown on the ground.
+2624|This belt has a handy adjustable strap, which is really good, since the wrestler you beat to get it is like three times your size.
+2626|Just before knocking him unconscious, you snapped a heroic photo of El Peligro for posterity. Put it up on the wall, show off your achievement!
+2628|This is a Rare Fire Superpower card for use in fighting crime. You can also place it as a block! Card effect: Smash your opponent for 1 damage, and while they are dazed, automatically follow up with a randomly chosen card from your hand.
+2630|Step into the ring, amigo. Show us your moves!
+2632|A block made of pinata material! Instead of candy inside, there's either seeds, gems, or more pinata blocks. You know, kind of like every block.
+2634|This light cotton dress is adorned with little embroidered flowers.
+2636|This famous sword is capable of slicing nearly any letter of the alphabet into nearly anybody's shirt.
+2638|This hat lends you the sharp and stylish lines of a fox!
+2640|This black eye mask includes a handsomely trimmed mustache for maximum swordfighting capacity.
+2642|Cloaked in the shadows, you can strike without warning! And double-jump.
+2644|Is it blue and black, or white and gold?  Who knows!?
+2646|Use your wrench on this to point it at yourself or one of your friends!
+2648|You think you know fashion? Well fashion's a stranger. You think fashion's your friend? My friend, fashion is danger!
+2650|You think you know fashion? Well fashion's a stranger. You think fashion's your friend? My friend, fashion is danger!
+2652|You think you know fashion? Well fashion's a stranger. You think fashion's your friend? My friend, fashion is danger!
+2654|You think you know fashion? Well fashion's a stranger. You think fashion's your friend? My friend, fashion is danger!
+2656|You think you know fashion? Well fashion's a stranger. You think fashion's your friend? My friend, fashion is danger!
+2658|You think you know fashion? Well fashion's a stranger. You think fashion's your friend? My friend, fashion is danger!
+2660|Beauty of person and elegance of manners in women will always command more admiration from the opposite sex than beauty, elegance or costliness of clothing.
+2662|Beauty of person and elegance of manners in women will always command more admiration from the opposite sex than beauty, elegance or costliness of clothing.
+2664|Beauty of person and elegance of manners in women will always command more admiration from the opposite sex than beauty, elegance or costliness of clothing.
+2666|Beauty of person and elegance of manners in women will always command more admiration from the opposite sex than beauty, elegance or costliness of clothing.
+2668|Beauty of person and elegance of manners in women will always command more admiration from the opposite sex than beauty, elegance or costliness of clothing.
+2670|Beauty of person and elegance of manners in women will always command more admiration from the opposite sex than beauty, elegance or costliness of clothing.
+2672|These really make your calves look good! Unfortunately they also cause crippling pain and permanent deformity. Hey, make your choice.
+2674|These really make your calves look good! Unfortunately they also cause crippling pain and permanent deformity. Hey, make your choice.
+2676|These really make your calves look good! Unfortunately they also cause crippling pain and permanent deformity. Hey, make your choice.
+2678|These really make your calves look good! Unfortunately they also cause crippling pain and permanent deformity. Hey, make your choice.
+2680|These really make your calves look good! Unfortunately they also cause crippling pain and permanent deformity. Hey, make your choice.
+2682|These really make your calves look good! Unfortunately they also cause crippling pain and permanent deformity. Hey, make your choice.
+2684|You can store all your stuff in here - dirt, toilets, cows, devil wings, whatever a girl needs.
+2686|You can store all your stuff in here - dirt, toilets, cows, devil wings, whatever a girl needs.
+2688|You can store all your stuff in here - dirt, toilets, cows, devil wings, whatever a girl needs.
+2690|You can store all your stuff in here - dirt, toilets, cows, devil wings, whatever a girl needs.
+2692|You can store all your stuff in here - dirt, toilets, cows, devil wings, whatever a girl needs.
+2694|You can store all your stuff in here - dirt, toilets, cows, devil wings, whatever a girl needs.
+2696|You can't store all your stuff in here - there's already a dog inside!
+2698|Slap on a little lipstick and eyeshadow before you hit the town tonight!
+2700|This strange two-toned hair is all the fashion rage in Growtopia. I don't know why, but by popular demand, here it is!
+2702|Mickey and May are Werkon and Compulsory's real life puppies! This puppy represents them both. Sponsored by Werkon and Compulsory.
+2704|Be careful with this necklace, they don't call it a choker for nothing.
+2706|Be careful with this necklace, they don't call it a choker for nothing. Now with a giant emerald!
+2708|This is a finely carved block of jade. How much more elegant could you get?
+2710|This jade block is inlaid with a delicate gold filigree. How much more elegant could you get?
+2712|Now there's pink silk draped on top. How much more elegant could you get?
+2714|Okay, covering the block with diamonds has to be the height of elegance.
+2716|Yep. You just went a step too far. This is not elegant.
+2718|On average, blondes tend to have more fun, but live 20% shorter lives. That sounds like science, but luckily it's not!
+2720|This crossbow is mounted to a glove, so nobody can steal it from you. It shoots electric bolts! Why not?  Sponsored by iNoodles.
+2722|You are burning with furious energy! And double-jump power. Sponsored by Palestinian, Signle, StardusJr.
+2724|This is a block. It is blue.
+2726|This is a Rare Lightning Superpower card for use in fighting crime. You can also place it as a block! Card effect: Impale your opponent for 3 damage. This exhausts you for a turn, but you can use a Lightning card to get a second wind. Even if countered, the spear still does 1 damage!
+2728|Just before knocking him unconscious, you snapped a pine-fresh photo of Pine-Fresh for posterity. Put it up on the wall, show off your achievement!
+2730|This brings a fresh pine(apple) scent to the area... a dangerous scent.
+2732|By growing pineapples inside cubical molds, they can be forced to grow in a block shape! There's no real reason to do this, but it is fun.
+2734|Yummy, it's a pineapple!  You should just keep eating these nonstop!
+2736|Here's a useful tip: if you find a pineapple big enough, you can hollow it out and jam it on your head! Wait a minute, that's not useful at all.
+2738|Similar to the classic Beer Hat, this hat presents you with a movable feast! You'll never go hungry with this on. Note: fruit is made of wax.
+2740|This stylish classic is adorned with pineapples and tropical flowers. Suitable for any pineapple occasion.
+2742|Though hard to distinguish from Clay Brick Pants by appearance, the key here is in the soft, squishy, juicy lining. Yeah, they're kinda gross to wear.
+2744|It's rare, but sometimes you'll see the little pineapple alert on your weather app. When you do, be sure to get under cover - an umbrella is not going to protect you! This sensitive technology will not function while damaged.
+2746|This block is sweeter than a normal Pineapple Block. Since you can't eat Pineapple Blocks, that doesn't matter much.
+2748|Be careful, this came out of the oven piping hot!
+2750|The problem with frozen pineapple is it gets mushy when it thaws. So this one has a built-in liquid nitrogen tank to keep it from ever thawing!
+2752|This pistol provides the power to pelt people with perilously pointy pineapples.
+2754|It got into your arm and it went bad, so you have to lop it off at the shoulder. Sponsored by Edvoid20, SpamG, CrimsonSwag.
+2756|The legendary spear of Odin is yours! Sponsored by ZeroRarity, CoffeeGuy, and xAzureHKF.
+2758|This backpack contains pineapple juice you can use to power a flamethrower or Harvester!
+2760|A bit of the tropics hanging from your earlobes.
+2762|Fly this colorful kite to celebrate your love of pineapples!
+2764|Fight crime in this mighty tropical leotard!
+2766|Flex your muscles in this mighty tropical leotard!
+2768|To be a tropical superhero, you really need to wear tights of some sort.
+2770|To be a tropical superhero, you really need to wear tights of some sort.
+2772|These tropical boots add nothing to your crimefighting skills except to protect you from stray Legos.
+2774|Protect your secret identity!
+2776|Protect your secret identity!
+2778|You're no Heroman, but it's still pretty swell.
+2780|Flex your muscles in this mighty tropical leotard!
+2782|Protect you secret identity by hiding the inch of skin around your eyes. Who could possibly recognize you?
+2784|Emblazon this logo on your super costume to fight crime as... Power Pineapple? Tropicanus? Dr. Pineapple? It's up to you!
+2786|It may seem obvious, but I'll say it anyway: this block is viney.
+2788|It's like you're lost in the jungle!
+2790|If you don't like it, you can make like this block and leaf.
+2792|Mission style is a design that emphasizes simple horizontal and vertical lines and flat panels that accentuate the grain of the wood (often oak, especially quartersawn oak).
+2794|Keep cool! It's hot out there.
+2796|Sneak around in these to find the secret documents. Nobody knows why they build them human-sized!
+2798|Dip a bucket in! You can collect one bucket of water from here every day.
+2800|Waddle waddle. Sponsored by TypoPig and IcyMeltz.
+2802|This trident has been blessed by Poseidon, God of the seas. The glowy blue signifies all of the servants who served under Poseidon in his battles. What Poseidon left along with this trident is unknown - that's for you to figure out. Sponsored by mythicdawn and angel42.
+2804|Hmm, green stuff. What IS this stuff?
+2806|Now stuff comes in blue too! It's a veritable rainbow of stuff.
+2808|In Texas, when you build a house, you just take all the rocks you end up digging up and slap them on the walls. It looks nice.
+2810|How else are you going to get into the air ducts?
+2812|Flawlessly cut by our master gemologists, enjoy this transcendent jewel, an heirloom to last a lifetime.
+2814|It's a number on a block! YAY!
+2816|It's a number on a block! YAY!
+2818|It's a number on a block! YAY!
+2820|It's a number on a block! YAY!
+2822|It's a number on a block! YAY!
+2824|It's a number on a block! YAY!
+2826|It's a number on a block! YAY!
+2828|It's a number on a block! YAY!
+2830|It's a number on a block! YAY!
+2832|It's a number on a block! YAY!
+2834|It's a number floating in the sky! YAY!
+2836|It's a number floating in the sky! YAY!
+2838|It's a number floating in the sky! YAY!
+2840|It's a number floating in the sky! YAY!
+2842|It's a number floating in the sky! YAY!
+2844|It's a number floating in the sky! YAY!
+2846|It's a number floating in the sky! YAY!
+2848|It's a number floating in the sky! YAY!
+2850|It's a number floating in the sky! YAY!
+2852|It's a number floating in the sky! YAY!
+2854|Aww, so cute you just wanna snuggle him all day! But you should really pace yourself on that, with a trip to the burn ward in between each snuggle. No more than 500 of these little guys exist in all of Growtopia.
+2856|Don't rub this on your face.
+2858|How you feelin'? Hot hot hot? Well, you can punch this to turn it on or off.
+2860|This bovine has mooooved on to greener pastures.
+2862|This bird's got legs that go allll the way up.
+2864|These gentle breezes smell like freshly mown grass. They also blow with great ferocity!
+2866|Congratulations on solving the Wizard's Riddle (or just googling what somebody else figured out). Since you're not legendary enough to obtain an actual Legendary Item, here's a replica of the great Wizard's staff. (Be careful, the winds might hurt you.) Sponsored by Devinn and PonyGarYelow.
+2868|This thoroughbred steed is burning with furious power. Sponsored by Hercule, HERMIUS, and PRONGS.
+2870|You're looking a little green around the gills.
+2872|You've got that windblown chlorinated surfer look. It either makes you cool or a filthy beach bum. It's a fine line.
+2874|You are the KING OF THE SEAS!... Is what's written on the tag of this cheap plastic knock-off.
+2876|It's an unlimited supply of free dirt blocks! Unfortunately, it spews them at high velocity so they splatter on impact. Sponsored by BLYoshi.
+2878|Every pair of cleats comes with a new high-tech soccer ball capable of returning to you automatically! These cleats come from Funtimes College, the #1 party school on Earth. Sponsored by The Admins of FC.
+2880|Every pair of cleats comes with a new high-tech soccer ball capable of returning to you automatically! These cleats come from Man University, the school for manly men of masculinity.
+2882|Represent Funtimes College in this stylish jersey! PARTY ON!
+2884|Represent Man University in this stylish jersey! Hallelujah, it's rainin' men! Notice of non-discrimination: Man University does not discriminate on the basis of gender identity, unless you're not a man. HOO HOO HOO MAN U!
+2886|Hidden inside this glove is a wormhole to a dimension filled with nothing but baseballs. Baseballs and popcorn shrimp. But the wormhole's at the baseball end of the dimension.
+2888|Don't worry, this isn't actually the skin of a pig. It's plastic. It's an American football! Also known as a hand-egg.  Throw it to somebody!
+2890|Must... keep... dribbling...
+2892|Nobody showed up for the big game!
