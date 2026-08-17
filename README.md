@@ -28,7 +28,7 @@ implemented yet. Contributions are very welcome.
 
 Mannequin, Donation Box, Crystal harmonisation, Phone Booth, Scoreboard,
 Achievement Block, Profile, Sungate, Security Camera, Clothing Compactor,
-Summer Breeze, the game-block set, and Boombox world music.
+Summer Breeze, the game-block set, and Boombox world music, and many other specifics that I most likely forgot.
 
 ---
 
