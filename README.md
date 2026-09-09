@@ -7,7 +7,7 @@ It runs and is playable — you can log in, build, grow trees, trade and use mos
 items. It is also **rough**: expect bugs, and expect to find things that aren't
 implemented yet. Contributions are very welcome.
 
-Any questions? DM on Discord: viscabarca.vamosss
+I will be doing my best to update the project as much as possible. Interested in following the project? Join the discord server => https://discord.gg/g2GgrCMDFS
 
 ---
 
