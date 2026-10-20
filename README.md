@@ -8,6 +8,8 @@ items. It is also **rough**: expect bugs, and expect to find things that aren't
 implemented yet. Contributions are very welcome.
 
 Questions? Contact me on Discord: viscabarca.vamosss
+
+
 I am also hosting a server: https://discord.gg/TZAxFPVwDk
 
 ---
